@@ -23,7 +23,7 @@ def stop():
     test_motor.controller.current_setpoint = 0
     test_motor.requested_state = AXIS_STATE_IDLE
 
-def main():``
+def main():
     global odrv
     global test_motor
     odrv = odrive.find_any(serial_number=id)
