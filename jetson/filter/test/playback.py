@@ -5,23 +5,23 @@ import time
 from datetime import datetime
 from queue import Queue
 import threading
+import lcm
 
 
 IMU_DATA_SIZE = 13
 GPS_DATA_SIZE = 7
 
+lcm_ = lcm.LCM()  # TODO: Compare this vs rover_common/aiolcm
+
 
 def read_into_queue(file_path, data_type):
     queue = Queue()
-    first_iter = False
     with open(file_path, "r") as f:
         while True:
             timestamp = f.readline()
             if not timestamp:
                 break
-            if not first_iter:
-                first_iter = True
-                first_timestamp = datetime.strptime(timestamp, "----- %Y-%m-%d %H:%M:%S.%f\n").timestamp() * 1000000
+            timestamp_sec = datetime.strptime(timestamp, "----- %Y-%m-%d %H:%M:%S.%f\n").timestamp()
             json_string = ""
             for _ in range(IMU_DATA_SIZE if data_type == "imu" else GPS_DATA_SIZE):
                 json_string += f.readline()
@@ -32,8 +32,19 @@ def read_into_queue(file_path, data_type):
             lcm = IMUData() if data_type == "imu" else GPS()
             for key, val in json_obj.items():
                 setattr(lcm, key, val)
-            queue.put(lcm)
-    return queue, first_timestamp
+            queue.put((lcm, timestamp_sec))
+    return queue
+
+
+def send_lcms_from_queue(data_queue, lcm_name):
+    while not data_queue.empty():
+        datum = data_queue.get()
+        lcm_to_send = datum[0]
+        curr_timestamp = datum[1]
+        lcm_.publish(lcm_name, lcm_to_send.encode())
+        print("Published LCM to " + lcm_name + " at " + str(curr_timestamp))
+        if not data_queue.empty():
+            time.sleep(data_queue.queue[0][1] - curr_timestamp)
 
 
 """
@@ -49,15 +60,25 @@ data_path = path.join(path.dirname(path.dirname(__file__)), "data")
 imu_data_path = path.join(data_path, file_name + "_imu.txt")
 gps_data_path = path.join(data_path, file_name + "_gps.txt")
 
-imu_data, first_imu_timestamp = read_into_queue(imu_data_path, "imu")
-gps_data, first_gps_timestamp = read_into_queue(gps_data_path, "gps")
+imu_data = read_into_queue(imu_data_path, "imu")
+gps_data = read_into_queue(gps_data_path, "gps")
 
-
-if first_imu_timestamp < first_gps_timestamp:
+if imu_data.queue[0][1] < gps_data.queue[0][1]:
     thread1_data = imu_data
     thread2_data = gps_data
-    timestamp_offset = first_gps_timestamp - first_imu_timestamp
+    thread1_lcm_name = "/imu_data"
+    thread2_lcm_name = "/gps"
+    timestamp_offset = gps_data.queue[0][1] - imu_data.queue[0][1]
 else:
     thread1_data = gps_data
     thread2_data = imu_data
-    timestamp_offset = first_imu_timestamp - first_gps_timestamp
+    thread1_lcm_name = "/gps"
+    thread2_lcm_name = "/imu_data"
+    timestamp_offset = imu_data.queue[0][1] - gps_data.queue[0][1]
+
+thread1 = threading.Thread(target=send_lcms_from_queue, args=(thread1_data, thread1_lcm_name))
+thread2 = threading.Thread(target=send_lcms_from_queue, args=(thread2_data, thread2_lcm_name))
+
+thread1.start()
+time.sleep(timestamp_offset)
+thread2.start()
