@@ -1,5 +1,4 @@
 from pynput import keyboard
-# from rover_common import aiolcm
 import lcm
 from rover_msgs import NavStatus
 
@@ -34,6 +33,11 @@ def on_press(key):
         pass
     
 
+"""
+Simulates the nav state changing between "Off" state and "Drive" state
+in order to stop the filter while running it independently.
+Press 's' when you stop moving, press 'd' when you start moving.
+"""
 if __name__ == "__main__":
 
     # init LCM

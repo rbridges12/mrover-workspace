@@ -1,0 +1,4056 @@
+----- 2020-09-05 18:00:07.726368
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59801999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.16,
+ 'timeStamp': 175848.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:07.909142
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980299999992,
+ 'quality': 2,
+ 'speed_kmh': 0.085,
+ 'timeStamp': 175848.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:08.090573
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980299999992,
+ 'quality': 2,
+ 'speed_kmh': 0.175,
+ 'timeStamp': 175848.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:08.291148
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598040000000765,
+ 'quality': 2,
+ 'speed_kmh': 0.116,
+ 'timeStamp': 175848.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:08.542613
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598040000000765,
+ 'quality': 2,
+ 'speed_kmh': 0.147,
+ 'timeStamp': 175848.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:08.719593
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598040000000765,
+ 'quality': 2,
+ 'speed_kmh': 0.169,
+ 'timeStamp': 175848.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:08.900477
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59805000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.239,
+ 'timeStamp': 175848.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:09.091896
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59805000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.174,
+ 'timeStamp': 175848.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:09.302837
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59806000000026,
+ 'quality': 2,
+ 'speed_kmh': 0.28,
+ 'timeStamp': 175848.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:09.493321
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59807000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.345,
+ 'timeStamp': 175848.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:09.739116
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59807000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.517,
+ 'timeStamp': 175848.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:09.932098
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59807000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.296,
+ 'timeStamp': 175849.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:10.273326
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59807000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.384,
+ 'timeStamp': 175849.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:10.463785
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59807000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.195,
+ 'timeStamp': 175849.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:10.655499
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598079999999754,
+ 'quality': 2,
+ 'speed_kmh': 0.082,
+ 'timeStamp': 175849.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:10.832426
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598079999999754,
+ 'quality': 2,
+ 'speed_kmh': 0.248,
+ 'timeStamp': 175849.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:10.953620
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.194,
+ 'timeStamp': 175849.3,
+ 'trackAngle_deg': 320.75}
+
+----- 2020-09-05 18:00:11.154982
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.543,
+ 'timeStamp': 175849.35,
+ 'trackAngle_deg': 341.21}
+
+----- 2020-09-05 18:00:11.401775
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.521,
+ 'timeStamp': 175849.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:11.582398
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.25,
+ 'timeStamp': 175849.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:11.829519
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.363,
+ 'timeStamp': 175849.5,
+ 'trackAngle_deg': 158.15}
+
+----- 2020-09-05 18:00:11.988665
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.634,
+ 'timeStamp': 175849.55,
+ 'trackAngle_deg': 150.73}
+
+----- 2020-09-05 18:00:12.132730
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.543,
+ 'timeStamp': 175849.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:12.287216
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5980899999995,
+ 'quality': 2,
+ 'speed_kmh': 0.242,
+ 'timeStamp': 175849.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:12.443488
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.106,
+ 'timeStamp': 175849.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:12.595633
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.454,
+ 'timeStamp': 175849.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:12.741158
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.378,
+ 'timeStamp': 175849.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:12.955074
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.176,
+ 'timeStamp': 175849.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:13.122137
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.296,
+ 'timeStamp': 175849.9,
+ 'trackAngle_deg': 152.88}
+
+----- 2020-09-05 18:00:13.286441
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.563,
+ 'timeStamp': 175849.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:13.481408
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.282,
+ 'timeStamp': 175850.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:13.788706
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59809999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.468,
+ 'timeStamp': 175850.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:13.879323
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.153,
+ 'timeStamp': 175850.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.078299
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.204,
+ 'timeStamp': 175850.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.229568
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.378,
+ 'timeStamp': 175850.25,
+ 'trackAngle_deg': 328.16}
+
+----- 2020-09-05 18:00:14.329975
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.54,
+ 'timeStamp': 175850.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.483381
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.312,
+ 'timeStamp': 175850.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.623297
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.212,
+ 'timeStamp': 175850.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.826805
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.197,
+ 'timeStamp': 175850.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:14.970802
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.154,
+ 'timeStamp': 175850.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.128006
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.093,
+ 'timeStamp': 175850.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.222772
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.478,
+ 'timeStamp': 175850.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.376536
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.242,
+ 'timeStamp': 175850.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.525018
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.342,
+ 'timeStamp': 175850.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.674141
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.347,
+ 'timeStamp': 175850.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:15.815468
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.431,
+ 'timeStamp': 175850.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.036037
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.374,
+ 'timeStamp': 175850.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.193929
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.38,
+ 'timeStamp': 175850.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.348012
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.173,
+ 'timeStamp': 175850.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.548523
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.2,
+ 'timeStamp': 175851.0,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.629581
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.12,
+ 'timeStamp': 175851.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:16.886573
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.107,
+ 'timeStamp': 175851.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.081050
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.259,
+ 'timeStamp': 175851.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.228987
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598110000000815,
+ 'quality': 2,
+ 'speed_kmh': 0.373,
+ 'timeStamp': 175851.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.431619
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.131,
+ 'timeStamp': 175851.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.515427
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.132,
+ 'timeStamp': 175851.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.719646
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.094,
+ 'timeStamp': 175851.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:17.878599
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.202,
+ 'timeStamp': 175851.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.035678
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.284,
+ 'timeStamp': 175851.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.191524
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.121,
+ 'timeStamp': 175851.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.337287
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.158,
+ 'timeStamp': 175851.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.481875
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.103,
+ 'timeStamp': 175851.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.642267
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.095,
+ 'timeStamp': 175851.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.793500
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.186,
+ 'timeStamp': 175851.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:18.939766
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.232,
+ 'timeStamp': 175851.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:19.148662
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.276,
+ 'timeStamp': 175851.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:19.289171
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.06,
+ 'timeStamp': 175851.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:19.443517
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.29,
+ 'timeStamp': 175851.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:19.634146
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59812000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.388,
+ 'timeStamp': 175852.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:19.886411
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59814000000006,
+ 'quality': 2,
+ 'speed_kmh': 0.272,
+ 'timeStamp': 175852.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.031911
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59814000000006,
+ 'quality': 2,
+ 'speed_kmh': 0.296,
+ 'timeStamp': 175852.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.182296
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59814000000006,
+ 'quality': 2,
+ 'speed_kmh': 0.313,
+ 'timeStamp': 175852.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.344786
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600730000000112,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59814000000006,
+ 'quality': 2,
+ 'speed_kmh': 0.384,
+ 'timeStamp': 175852.25,
+ 'trackAngle_deg': 161.97}
+
+----- 2020-09-05 18:00:20.505201
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600730000000112,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59813000000031,
+ 'quality': 2,
+ 'speed_kmh': 0.609,
+ 'timeStamp': 175852.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.658555
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59814000000006,
+ 'quality': 2,
+ 'speed_kmh': 0.372,
+ 'timeStamp': 175852.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.798697
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60073999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598149999999805,
+ 'quality': 2,
+ 'speed_kmh': 0.554,
+ 'timeStamp': 175852.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:20.961254
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598149999999805,
+ 'quality': 2,
+ 'speed_kmh': 0.485,
+ 'timeStamp': 175852.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:21.117609
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598149999999805,
+ 'quality': 2,
+ 'speed_kmh': 0.424,
+ 'timeStamp': 175852.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:21.314833
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598149999999805,
+ 'quality': 2,
+ 'speed_kmh': 0.468,
+ 'timeStamp': 175852.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:21.467140
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598149999999805,
+ 'quality': 2,
+ 'speed_kmh': 0.324,
+ 'timeStamp': 175852.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:21.612537
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59815999999955,
+ 'quality': 2,
+ 'speed_kmh': 0.2,
+ 'timeStamp': 175852.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:21.769883
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59815999999955,
+ 'quality': 2,
+ 'speed_kmh': 0.41,
+ 'timeStamp': 175852.7,
+ 'trackAngle_deg': 330.67}
+
+----- 2020-09-05 18:00:21.976792
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59815999999955,
+ 'quality': 2,
+ 'speed_kmh': 0.504,
+ 'timeStamp': 175852.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:22.115365
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59815999999955,
+ 'quality': 2,
+ 'speed_kmh': 0.319,
+ 'timeStamp': 175852.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:22.230810
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59815999999955,
+ 'quality': 2,
+ 'speed_kmh': 0.297,
+ 'timeStamp': 175852.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:22.383640
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.364,
+ 'timeStamp': 175852.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:22.540534
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.209,
+ 'timeStamp': 175852.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:22.731176
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600749999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.247,
+ 'timeStamp': 175853.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.012639
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.286,
+ 'timeStamp': 175853.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.172680
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.257,
+ 'timeStamp': 175853.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.316768
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600760000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.196,
+ 'timeStamp': 175853.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.467221
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.07,
+ 'timeStamp': 175853.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.620546
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.123,
+ 'timeStamp': 175853.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.773298
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.178,
+ 'timeStamp': 175853.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:23.860964
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.188,
+ 'timeStamp': 175853.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.063219
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.163,
+ 'timeStamp': 175853.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.208504
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.194,
+ 'timeStamp': 175853.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.358468
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.247,
+ 'timeStamp': 175853.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.519263
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.312,
+ 'timeStamp': 175853.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.672037
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.23,
+ 'timeStamp': 175853.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:24.867153
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.112,
+ 'timeStamp': 175853.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.020926
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.079,
+ 'timeStamp': 175853.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.175144
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.124,
+ 'timeStamp': 175853.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.343874
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.09,
+ 'timeStamp': 175853.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.498373
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.094,
+ 'timeStamp': 175853.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.651122
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.218,
+ 'timeStamp': 175853.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:25.850248
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.05,
+ 'timeStamp': 175854.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.158723
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60077999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.145,
+ 'timeStamp': 175854.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.390389
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600790000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.195,
+ 'timeStamp': 175854.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.545359
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600790000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5981699999993,
+ 'quality': 2,
+ 'speed_kmh': 0.173,
+ 'timeStamp': 175854.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.699588
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600800000000163,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.355,
+ 'timeStamp': 175854.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.851444
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600800000000163,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.254,
+ 'timeStamp': 175854.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:26.997096
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600800000000163,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.109,
+ 'timeStamp': 175854.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.145698
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600800000000163,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.225,
+ 'timeStamp': 175854.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.299554
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60080999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.208,
+ 'timeStamp': 175854.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.487111
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60080999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.08,
+ 'timeStamp': 175854.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.643851
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.267,
+ 'timeStamp': 175854.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.801479
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.179,
+ 'timeStamp': 175854.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:27.954933
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.082,
+ 'timeStamp': 175854.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.099352
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.26,
+ 'timeStamp': 175854.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.298205
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.316,
+ 'timeStamp': 175854.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.417141
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.04,
+ 'timeStamp': 175854.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.565888
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.367,
+ 'timeStamp': 175854.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.768817
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.074,
+ 'timeStamp': 175854.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:28.960593
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600819999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.418,
+ 'timeStamp': 175855.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:29.233119
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.101,
+ 'timeStamp': 175855.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:29.470036
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.467,
+ 'timeStamp': 175855.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:29.669620
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.321,
+ 'timeStamp': 175855.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:29.764995
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.058,
+ 'timeStamp': 175855.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:29.918635
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.159,
+ 'timeStamp': 175855.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:30.064498
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600830000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.126,
+ 'timeStamp': 175855.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:30.212749
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600840000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.273,
+ 'timeStamp': 175855.45,
+ 'trackAngle_deg': 8.5}
+
+----- 2020-09-05 18:00:30.367176
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600840000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.479,
+ 'timeStamp': 175855.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:30.555343
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.374,
+ 'timeStamp': 175855.55,
+ 'trackAngle_deg': 354.29}
+
+----- 2020-09-05 18:00:30.721405
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.53,
+ 'timeStamp': 175855.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:30.873673
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.416,
+ 'timeStamp': 175855.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.024139
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.43,
+ 'timeStamp': 175855.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.169305
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.354,
+ 'timeStamp': 175855.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.332603
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598180000000866,
+ 'quality': 2,
+ 'speed_kmh': 0.042,
+ 'timeStamp': 175855.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.508097
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.158,
+ 'timeStamp': 175855.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.700721
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60084999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.194,
+ 'timeStamp': 175855.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:31.850582
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600859999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59819000000061,
+ 'quality': 2,
+ 'speed_kmh': 0.323,
+ 'timeStamp': 175855.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.051150
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600859999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.216,
+ 'timeStamp': 175856.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.304193
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600859999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.297,
+ 'timeStamp': 175856.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.414622
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.302,
+ 'timeStamp': 175856.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.568570
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.222,
+ 'timeStamp': 175856.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.718369
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.095,
+ 'timeStamp': 175856.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:32.864992
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.167,
+ 'timeStamp': 175856.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.009156
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59820000000036,
+ 'quality': 2,
+ 'speed_kmh': 0.109,
+ 'timeStamp': 175856.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.160658
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.14,
+ 'timeStamp': 175856.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.320120
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.319,
+ 'timeStamp': 175856.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.478389
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600870000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.189,
+ 'timeStamp': 175856.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.621270
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.083,
+ 'timeStamp': 175856.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.773733
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.123,
+ 'timeStamp': 175856.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:33.964870
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.045,
+ 'timeStamp': 175856.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.118893
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.133,
+ 'timeStamp': 175856.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.271839
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.077,
+ 'timeStamp': 175856.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.427490
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.075,
+ 'timeStamp': 175856.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.585016
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59821000000011,
+ 'quality': 2,
+ 'speed_kmh': 0.08,
+ 'timeStamp': 175856.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.783538
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598219999999856,
+ 'quality': 2,
+ 'speed_kmh': 0.194,
+ 'timeStamp': 175856.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:34.934031
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598219999999856,
+ 'quality': 2,
+ 'speed_kmh': 0.195,
+ 'timeStamp': 175856.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.088954
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598219999999856,
+ 'quality': 2,
+ 'speed_kmh': 0.199,
+ 'timeStamp': 175857.0,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.235106
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60087999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598219999999856,
+ 'quality': 2,
+ 'speed_kmh': 0.178,
+ 'timeStamp': 175857.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.429936
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60088999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.111,
+ 'timeStamp': 175857.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.709106
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60088999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.218,
+ 'timeStamp': 175857.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.857248
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60088999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.186,
+ 'timeStamp': 175857.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:35.941669
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600900000000365,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.181,
+ 'timeStamp': 175857.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.107242
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600900000000365,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.119,
+ 'timeStamp': 175857.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.260185
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600910000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.21,
+ 'timeStamp': 175857.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.414071
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600910000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.259,
+ 'timeStamp': 175857.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.559658
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60091999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.19,
+ 'timeStamp': 175857.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.760155
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60091999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.285,
+ 'timeStamp': 175857.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:36.905489
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60091999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.408,
+ 'timeStamp': 175857.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.066582
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600929999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.089,
+ 'timeStamp': 175857.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.248665
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600929999999607,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.098,
+ 'timeStamp': 175857.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.401174
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600940000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.11,
+ 'timeStamp': 175857.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.557602
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600940000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.444,
+ 'timeStamp': 175857.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.721947
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600940000000264,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.226,
+ 'timeStamp': 175857.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:37.865133
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.135,
+ 'timeStamp': 175857.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:38.021623
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.146,
+ 'timeStamp': 175857.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:38.221703
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095000000001,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.244,
+ 'timeStamp': 175858.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:38.514484
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.127,
+ 'timeStamp': 175858.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:38.795537
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.631,
+ 'timeStamp': 175858.2,
+ 'trackAngle_deg': 43.57}
+
+----- 2020-09-05 18:00:38.884609
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.728,
+ 'timeStamp': 175858.25,
+ 'trackAngle_deg': 58.69}
+
+----- 2020-09-05 18:00:39.086924
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.603,
+ 'timeStamp': 175858.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:39.249656
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.219,
+ 'timeStamp': 175858.35,
+ 'trackAngle_deg': 168.29}
+
+----- 2020-09-05 18:00:39.349000
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60095999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982299999996,
+ 'quality': 2,
+ 'speed_kmh': 0.563,
+ 'timeStamp': 175858.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:39.496619
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.343,
+ 'timeStamp': 175858.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:39.637090
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.015,
+ 'timeStamp': 175858.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:39.835479
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600970000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.223,
+ 'timeStamp': 175858.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:39.979198
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600980000000163,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.209,
+ 'timeStamp': 175858.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.176920
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59823999999935,
+ 'quality': 2,
+ 'speed_kmh': 0.104,
+ 'timeStamp': 175858.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.276966
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.277,
+ 'timeStamp': 175858.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.470304
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.292,
+ 'timeStamp': 175858.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.629108
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.362,
+ 'timeStamp': 175858.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.796804
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.457,
+ 'timeStamp': 175858.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:40.949082
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.358,
+ 'timeStamp': 175858.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:41.110113
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.508,
+ 'timeStamp': 175858.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:41.298788
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60098999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.515,
+ 'timeStamp': 175859.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:41.575171
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5982499999991,
+ 'quality': 2,
+ 'speed_kmh': 0.55,
+ 'timeStamp': 175859.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:41.733311
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.449,
+ 'timeStamp': 175859.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:41.882855
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.513,
+ 'timeStamp': 175859.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.031406
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.367,
+ 'timeStamp': 175859.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.122167
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.344,
+ 'timeStamp': 175859.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.277267
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.282,
+ 'timeStamp': 175859.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.435649
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.241,
+ 'timeStamp': 175859.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.585461
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.600999999999658,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598260000000664,
+ 'quality': 2,
+ 'speed_kmh': 0.487,
+ 'timeStamp': 175859.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.791739
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601010000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.317,
+ 'timeStamp': 175859.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:42.880664
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601010000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.327,
+ 'timeStamp': 175859.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.139528
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601010000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.307,
+ 'timeStamp': 175859.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.287912
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601010000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.064,
+ 'timeStamp': 175859.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.443635
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.205,
+ 'timeStamp': 175859.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.599815
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.187,
+ 'timeStamp': 175859.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.750373
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.238,
+ 'timeStamp': 175859.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:43.921968
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59828000000016,
+ 'quality': 2,
+ 'speed_kmh': 0.125,
+ 'timeStamp': 175859.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:44.070232
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.122,
+ 'timeStamp': 175859.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:44.229649
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.249,
+ 'timeStamp': 175859.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:44.423491
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.21,
+ 'timeStamp': 175900.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:44.707613
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.51,
+ 'timeStamp': 175900.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:44.986300
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.219,
+ 'timeStamp': 175900.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.152165
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601020000000062,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.041,
+ 'timeStamp': 175900.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.311798
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.247,
+ 'timeStamp': 175900.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.402240
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598289999999906,
+ 'quality': 2,
+ 'speed_kmh': 0.23,
+ 'timeStamp': 175900.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.604156
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.117,
+ 'timeStamp': 175900.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.763300
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983099999994,
+ 'quality': 2,
+ 'speed_kmh': 0.505,
+ 'timeStamp': 175900.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:45.933718
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.28,
+ 'timeStamp': 175900.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.082904
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60102999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.052,
+ 'timeStamp': 175900.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.268961
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598299999999654,
+ 'quality': 2,
+ 'speed_kmh': 0.145,
+ 'timeStamp': 175900.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.427474
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983099999994,
+ 'quality': 2,
+ 'speed_kmh': 0.136,
+ 'timeStamp': 175900.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.590592
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983099999994,
+ 'quality': 2,
+ 'speed_kmh': 0.054,
+ 'timeStamp': 175900.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.804550
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59831999999915,
+ 'quality': 2,
+ 'speed_kmh': 0.114,
+ 'timeStamp': 175900.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:46.955700
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59831999999915,
+ 'quality': 2,
+ 'speed_kmh': 0.324,
+ 'timeStamp': 175900.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:47.139493
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.502,
+ 'timeStamp': 175900.85,
+ 'trackAngle_deg': 286.1}
+
+----- 2020-09-05 18:00:47.302491
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.637,
+ 'timeStamp': 175900.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:47.448499
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.39,
+ 'timeStamp': 175900.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:47.650828
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.193,
+ 'timeStamp': 175901.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:47.921005
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.17,
+ 'timeStamp': 175901.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.073409
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.282,
+ 'timeStamp': 175901.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.232179
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.323,
+ 'timeStamp': 175901.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.384955
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.083,
+ 'timeStamp': 175901.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.473457
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59831999999915,
+ 'quality': 2,
+ 'speed_kmh': 0.442,
+ 'timeStamp': 175901.3,
+ 'trackAngle_deg': 154.37}
+
+----- 2020-09-05 18:00:48.637100
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601039999999557,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59831999999915,
+ 'quality': 2,
+ 'speed_kmh': 0.598,
+ 'timeStamp': 175901.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.823952
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59831999999915,
+ 'quality': 2,
+ 'speed_kmh': 0.434,
+ 'timeStamp': 175901.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:48.983148
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.25,
+ 'timeStamp': 175901.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.133404
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.416,
+ 'timeStamp': 175901.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.284526
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601050000000214,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.339,
+ 'timeStamp': 175901.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.430425
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.093,
+ 'timeStamp': 175901.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.629551
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.068,
+ 'timeStamp': 175901.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.791259
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.043,
+ 'timeStamp': 175901.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:49.954091
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.175,
+ 'timeStamp': 175901.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:50.110804
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598330000000715,
+ 'quality': 2,
+ 'speed_kmh': 0.058,
+ 'timeStamp': 175901.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:50.281960
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.034,
+ 'timeStamp': 175901.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:50.435264
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.124,
+ 'timeStamp': 175901.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:50.595268
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.173,
+ 'timeStamp': 175901.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:50.795323
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60105999999996,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.117,
+ 'timeStamp': 175902.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.111942
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59834000000046,
+ 'quality': 2,
+ 'speed_kmh': 0.33,
+ 'timeStamp': 175902.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.394567
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.189,
+ 'timeStamp': 175902.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.539969
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.017,
+ 'timeStamp': 175902.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.627771
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.043,
+ 'timeStamp': 175902.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.781639
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.084,
+ 'timeStamp': 175902.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:51.929574
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60106999999971,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.064,
+ 'timeStamp': 175902.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.082289
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.114,
+ 'timeStamp': 175902.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.231643
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.124,
+ 'timeStamp': 175902.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.433537
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.016,
+ 'timeStamp': 175902.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.586311
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.105,
+ 'timeStamp': 175902.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.740740
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.105,
+ 'timeStamp': 175902.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:52.895052
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601080000000366,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.126,
+ 'timeStamp': 175902.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.046663
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601090000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.148,
+ 'timeStamp': 175902.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.250509
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601090000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.072,
+ 'timeStamp': 175902.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.417204
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601090000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.061,
+ 'timeStamp': 175902.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.582497
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601090000000113,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.213,
+ 'timeStamp': 175902.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.736500
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60109999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.145,
+ 'timeStamp': 175902.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:53.941372
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60109999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835000000021,
+ 'quality': 2,
+ 'speed_kmh': 0.088,
+ 'timeStamp': 175903.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.215644
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60109999999986,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.136,
+ 'timeStamp': 175903.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.371609
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601109999999608,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.029,
+ 'timeStamp': 175903.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.528737
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601109999999608,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.136,
+ 'timeStamp': 175903.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.685896
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601109999999608,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.138,
+ 'timeStamp': 175903.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.770827
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601120000000265,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.209,
+ 'timeStamp': 175903.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:54.974282
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601120000000265,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.293,
+ 'timeStamp': 175903.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.119744
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601120000000265,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.156,
+ 'timeStamp': 175903.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.250272
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601120000000265,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.063,
+ 'timeStamp': 175903.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.397530
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601120000000265,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59835999999996,
+ 'quality': 2,
+ 'speed_kmh': 0.129,
+ 'timeStamp': 175903.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.555067
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601130000000012,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.105,
+ 'timeStamp': 175903.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.707230
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601130000000012,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.218,
+ 'timeStamp': 175903.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:55.904711
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601130000000012,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.177,
+ 'timeStamp': 175903.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.059146
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601130000000012,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.147,
+ 'timeStamp': 175903.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.210382
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.13,
+ 'timeStamp': 175903.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.351411
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.153,
+ 'timeStamp': 175903.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.542380
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.226,
+ 'timeStamp': 175903.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.685619
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.032,
+ 'timeStamp': 175903.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:56.842614
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.109,
+ 'timeStamp': 175903.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:57.058900
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.228,
+ 'timeStamp': 175904.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:57.343784
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601150000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.063,
+ 'timeStamp': 175904.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:57.629206
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601150000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.275,
+ 'timeStamp': 175904.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:57.785006
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.045,
+ 'timeStamp': 175904.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:57.962970
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60113999999976,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.496,
+ 'timeStamp': 175904.3,
+ 'trackAngle_deg': 114.58}
+
+----- 2020-09-05 18:00:58.124756
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601150000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.62,
+ 'timeStamp': 175904.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:58.275237
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601150000000416,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598369999999704,
+ 'quality': 2,
+ 'speed_kmh': 0.36,
+ 'timeStamp': 175904.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:58.375590
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601160000000164,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.246,
+ 'timeStamp': 175904.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:58.579336
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601160000000164,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.233,
+ 'timeStamp': 175904.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:58.723144
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601160000000164,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.203,
+ 'timeStamp': 175904.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:58.870930
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60116999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.216,
+ 'timeStamp': 175904.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.040608
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601160000000164,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.109,
+ 'timeStamp': 175904.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.237289
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601160000000164,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59837999999945,
+ 'quality': 2,
+ 'speed_kmh': 0.068,
+ 'timeStamp': 175904.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.356017
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60116999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.109,
+ 'timeStamp': 175904.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.510984
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60116999999991,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5983899999992,
+ 'quality': 2,
+ 'speed_kmh': 0.234,
+ 'timeStamp': 175904.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.691910
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598400000000765,
+ 'quality': 2,
+ 'speed_kmh': 0.033,
+ 'timeStamp': 175904.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.839217
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598400000000765,
+ 'quality': 2,
+ 'speed_kmh': 0.259,
+ 'timeStamp': 175904.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:00:59.998814
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59841000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.218,
+ 'timeStamp': 175904.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:00.200830
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59841000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.257,
+ 'timeStamp': 175905.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:00.450185
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59841000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.101,
+ 'timeStamp': 175905.1,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:00.653026
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59841000000051,
+ 'quality': 2,
+ 'speed_kmh': 0.203,
+ 'timeStamp': 175905.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:00.803287
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59842000000026,
+ 'quality': 2,
+ 'speed_kmh': 0.127,
+ 'timeStamp': 175905.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:00.962532
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.295,
+ 'timeStamp': 175905.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.121198
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.417,
+ 'timeStamp': 175905.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.278848
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.254,
+ 'timeStamp': 175905.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.459965
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59842000000026,
+ 'quality': 2,
+ 'speed_kmh': 0.131,
+ 'timeStamp': 175905.4,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.554506
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.292,
+ 'timeStamp': 175905.45,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.750772
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60117999999966,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.16,
+ 'timeStamp': 175905.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:01.908527
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.187,
+ 'timeStamp': 175905.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.064795
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.073,
+ 'timeStamp': 175905.6,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.220637
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601190000000315,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59843000000001,
+ 'quality': 2,
+ 'speed_kmh': 0.123,
+ 'timeStamp': 175905.65,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.360200
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598439999999755,
+ 'quality': 2,
+ 'speed_kmh': 0.263,
+ 'timeStamp': 175905.7,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.570310
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598439999999755,
+ 'quality': 2,
+ 'speed_kmh': 0.321,
+ 'timeStamp': 175905.75,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.727974
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.209,
+ 'timeStamp': 175905.8,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:02.905428
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.334,
+ 'timeStamp': 175905.85,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:03.048485
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.308,
+ 'timeStamp': 175905.9,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:03.211509
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.046,
+ 'timeStamp': 175905.95,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:03.416083
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.102,
+ 'timeStamp': 175906.0,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:03.571816
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.5984499999995,
+ 'quality': 2,
+ 'speed_kmh': 0.164,
+ 'timeStamp': 175906.05,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:03.765665
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59845999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.061,
+ 'timeStamp': 175906.15,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.003627
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59845999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.21,
+ 'timeStamp': 175906.2,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.155644
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59845999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.277,
+ 'timeStamp': 175906.25,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.258825
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.601200000000063,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59845999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.072,
+ 'timeStamp': 175906.3,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.467456
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59845999999925,
+ 'quality': 2,
+ 'speed_kmh': 0.367,
+ 'timeStamp': 175906.35,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.623657
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.598470000000816,
+ 'quality': 2,
+ 'speed_kmh': 0.036,
+ 'timeStamp': 175906.5,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.765280
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59848000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.024,
+ 'timeStamp': 175906.55,
+ 'trackAngle_deg': 0.0}
+
+----- 2020-09-05 18:01:04.926887
+{'latitudeDirection': 'N',
+ 'latitude_deg': 42,
+ 'latitude_min': 17.60120999999981,
+ 'longitudeDirection': 'W',
+ 'longitude_deg': -83,
+ 'longitude_min': -42.59848000000056,
+ 'quality': 2,
+ 'speed_kmh': 0.3,
+ 'timeStamp': 175906.6,
+ 'trackAngle_deg': 0.0}
+
