@@ -45,7 +45,13 @@ def export_kml(gps_json, kml_filename):
     with open(kml_filename, 'w') as f:
         f.write(KML_HEADER + "\n".join(placemarks) + KML_FOOTER)
 
+"""
+Convert an LCM echo log file containing GPS data into a KML file that can be loaded in Google Earth or a similar mapping tool.
+Save your LCM log file to a "/data" folder in the same directory as this script,
+The KML file will be saved to the same directory with the same name except for a .kml extension.
 
+usage: python3 convert_gps.py [LCM_FILE_NAME.txt]
+"""
 gps_file = "data/" + sys.argv[1]
 kml_file = "data/" + sys.argv[1].replace(".txt", ".kml")
 data = parse_gps_data(gps_file)
