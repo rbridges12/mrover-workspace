@@ -1,4 +1,4 @@
-from os import path
+# from os import path
 from rover_msgs import IMUData, GPS
 import json
 import time
@@ -21,7 +21,8 @@ def read_into_queue(file_path, data_type):
             timestamp = f.readline()
             if not timestamp:
                 break
-            timestamp_sec = datetime.strptime(timestamp, "----- %Y-%m-%d %H:%M:%S.%f\n").timestamp()
+            timestamp_sec = datetime.strptime(
+                timestamp, "----- %Y-%m-%d %H:%M:%S.%f\n").timestamp()
             json_string = ""
             for _ in range(IMU_DATA_SIZE if data_type == "imu" else GPS_DATA_SIZE):
                 json_string += f.readline()
@@ -55,30 +56,42 @@ Test files must be named: NAME_imu.txt and NAME_gps.txt
 imu/gps_data are Queues of their respective LCM objects
 first_imu/gps_timestamp are the timestamp of the first recorded LCM data in microseconds
 """
-file_name = input("Test name: ")
-data_path = path.join(path.dirname(path.dirname(__file__)), "data")
-imu_data_path = path.join(data_path, file_name + "_imu.txt")
-gps_data_path = path.join(data_path, file_name + "_gps.txt")
 
-imu_data = read_into_queue(imu_data_path, "imu")
-gps_data = read_into_queue(gps_data_path, "gps")
 
-if imu_data.queue[0][1] < gps_data.queue[0][1]:
-    thread1_data = imu_data
-    thread2_data = gps_data
-    thread1_lcm_name = "/imu_data"
-    thread2_lcm_name = "/gps"
-    timestamp_offset = gps_data.queue[0][1] - imu_data.queue[0][1]
-else:
-    thread1_data = gps_data
-    thread2_data = imu_data
-    thread1_lcm_name = "/gps"
-    thread2_lcm_name = "/imu_data"
-    timestamp_offset = imu_data.queue[0][1] - gps_data.queue[0][1]
+def main():
+    # file_name = "playback"
+    # data_path = path.join(path.dirname(path.dirname(__file__)), "data")
+    # imu_data_path = path.join(data_path, file_name + "_imu.txt")
+    # gps_data_path = path.join(data_path, file_name + "_gps.txt")
+    dir_path = "/mnt/jetson/filter_playback/src/data/"
+    imu_data_path = dir_path + "playback_imu.txt"
+    gps_data_path = dir_path + "playback_gps.txt"
 
-thread1 = threading.Thread(target=send_lcms_from_queue, args=(thread1_data, thread1_lcm_name))
-thread2 = threading.Thread(target=send_lcms_from_queue, args=(thread2_data, thread2_lcm_name))
+    imu_data = read_into_queue(imu_data_path, "imu")
+    gps_data = read_into_queue(gps_data_path, "gps")
 
-thread1.start()
-time.sleep(timestamp_offset)
-thread2.start()
+    if imu_data.queue[0][1] < gps_data.queue[0][1]:
+        thread1_data = imu_data
+        thread2_data = gps_data
+        thread1_lcm_name = "/imu_data"
+        thread2_lcm_name = "/gps"
+        timestamp_offset = gps_data.queue[0][1] - imu_data.queue[0][1]
+    else:
+        thread1_data = gps_data
+        thread2_data = imu_data
+        thread1_lcm_name = "/gps"
+        thread2_lcm_name = "/imu_data"
+        timestamp_offset = imu_data.queue[0][1] - gps_data.queue[0][1]
+
+    thread1 = threading.Thread(
+        target=send_lcms_from_queue, args=(thread1_data, thread1_lcm_name))
+    thread2 = threading.Thread(
+        target=send_lcms_from_queue, args=(thread2_data, thread2_lcm_name))
+
+    thread1.start()
+    time.sleep(timestamp_offset)
+    thread2.start()
+
+
+if __name__ == "__main__":
+    main()

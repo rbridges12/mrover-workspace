@@ -1,0 +1,8055 @@
+----- 2022-02-10 16:14:16.095475
+{'accel_x_g': 0.0408,
+ 'accel_y_g': 0.0306,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 53.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.204385
+{'accel_x_g': 0.0336,
+ 'accel_y_g': 0.0183,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 53.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.309237
+{'accel_x_g': 0.0438,
+ 'accel_y_g': 0.0143,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 53.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.416003
+{'accel_x_g': 0.0449,
+ 'accel_y_g': 0.0296,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 53.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.523748
+{'accel_x_g': 0.0255,
+ 'accel_y_g': 0.0418,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 53.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.630943
+{'accel_x_g': 0.0398,
+ 'accel_y_g': 0.0204,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 53.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.740779
+{'accel_x_g': 0.0428,
+ 'accel_y_g': 0.0245,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 53.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.846211
+{'accel_x_g': 0.0387,
+ 'accel_y_g': 0.0265,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 53.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:16.953023
+{'accel_x_g': 0.0326,
+ 'accel_y_g': 0.0336,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 53.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.060111
+{'accel_x_g': 0.0357,
+ 'accel_y_g': 0.0234,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 53.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.165970
+{'accel_x_g': 0.0428,
+ 'accel_y_g': 0.0173,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 53.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.274783
+{'accel_x_g': 0.0387,
+ 'accel_y_g': 0.0316,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 53.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.380724
+{'accel_x_g': 0.0377,
+ 'accel_y_g': 0.0255,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 53.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.489443
+{'accel_x_g': 0.0408,
+ 'accel_y_g': 0.0285,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 52.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.595232
+{'accel_x_g': 0.0469,
+ 'accel_y_g': 0.0571,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 52.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.703872
+{'accel_x_g': 0.051,
+ 'accel_y_g': 0.0255,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 51.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.809624
+{'accel_x_g': 0.0581,
+ 'accel_y_g': 0.0673,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 49.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:17.917572
+{'accel_x_g': 0.0336,
+ 'accel_y_g': 0.0408,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 47.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.023610
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0204,
+ 'accel_z_g': 1.0428,
+ 'bearing_deg': 45.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.129527
+{'accel_x_g': 0.0183,
+ 'accel_y_g': 0.0194,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 43.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.235510
+{'accel_x_g': -0.002,
+ 'accel_y_g': -0.0122,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 41.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.341674
+{'accel_x_g': -0.0122,
+ 'accel_y_g': 0.0632,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 39.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.447774
+{'accel_x_g': 0.054,
+ 'accel_y_g': 0.0663,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 38.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.556066
+{'accel_x_g': 0.0642,
+ 'accel_y_g': -0.0112,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 37.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.662180
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 1.0082,
+ 'bearing_deg': 35.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.770876
+{'accel_x_g': 0.0306,
+ 'accel_y_g': 0.0632,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 34.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.878338
+{'accel_x_g': 0.0928,
+ 'accel_y_g': 0.0449,
+ 'accel_z_g': 0.9776,
+ 'bearing_deg': 32.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:18.985424
+{'accel_x_g': 0.0775,
+ 'accel_y_g': 0.0489,
+ 'accel_z_g': 1.0061,
+ 'bearing_deg': 30.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.094826
+{'accel_x_g': 0.0601,
+ 'accel_y_g': 0.0398,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 27.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.197802
+{'accel_x_g': 0.0245,
+ 'accel_y_g': 0.0143,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 24.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.303255
+{'accel_x_g': 0.0296,
+ 'accel_y_g': 0.0051,
+ 'accel_z_g': 0.9562,
+ 'bearing_deg': 21.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.409481
+{'accel_x_g': 0.0591,
+ 'accel_y_g': 0.0265,
+ 'accel_z_g': 0.9735,
+ 'bearing_deg': 18.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.516384
+{'accel_x_g': 0.0499,
+ 'accel_y_g': 0.0265,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 16.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.625082
+{'accel_x_g': 0.055,
+ 'accel_y_g': -0.0071,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 14.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.731278
+{'accel_x_g': 0.0683,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 12.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.839522
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0316,
+ 'accel_z_g': 1.0194,
+ 'bearing_deg': 10.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:19.946679
+{'accel_x_g': 0.0306,
+ 'accel_y_g': 0.0306,
+ 'accel_z_g': 0.9755,
+ 'bearing_deg': 8.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.054128
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 6.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.160380
+{'accel_x_g': 0.0183,
+ 'accel_y_g': 0.0683,
+ 'accel_z_g': 0.9867,
+ 'bearing_deg': 3.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.265657
+{'accel_x_g': 0.051,
+ 'accel_y_g': 0.0051,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 2.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.371460
+{'accel_x_g': 0.0744,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 1.0112,
+ 'bearing_deg': 0.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.477843
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0102,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 358.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.583926
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 357.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.691730
+{'accel_x_g': 0.0622,
+ 'accel_y_g': 0.0122,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 356.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.798376
+{'accel_x_g': 0.0663,
+ 'accel_y_g': 0.0153,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 355.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:20.905866
+{'accel_x_g': 0.0418,
+ 'accel_y_g': 0.0336,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 353.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.012307
+{'accel_x_g': 0.0489,
+ 'accel_y_g': 0.0316,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 352.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.120982
+{'accel_x_g': 0.0449,
+ 'accel_y_g': 0.0387,
+ 'accel_z_g': 0.9867,
+ 'bearing_deg': 350.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.226965
+{'accel_x_g': 0.0459,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 349.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.332755
+{'accel_x_g': 0.054,
+ 'accel_y_g': 0.0601,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 348.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.438735
+{'accel_x_g': 0.0826,
+ 'accel_y_g': 0.0336,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 346.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.544948
+{'accel_x_g': 0.0775,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 345.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.652105
+{'accel_x_g': 0.0815,
+ 'accel_y_g': 0.0285,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 343.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.760997
+{'accel_x_g': 0.0622,
+ 'accel_y_g': 0.0428,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 341.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.867174
+{'accel_x_g': 0.0438,
+ 'accel_y_g': 0.0428,
+ 'accel_z_g': 0.9806,
+ 'bearing_deg': 339.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:21.975782
+{'accel_x_g': 0.0234,
+ 'accel_y_g': 0.051,
+ 'accel_z_g': 0.9817,
+ 'bearing_deg': 337.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.083239
+{'accel_x_g': 0.0856,
+ 'accel_y_g': 0.0214,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 335.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.190298
+{'accel_x_g': 0.052,
+ 'accel_y_g': 0.0102,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 333.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.296284
+{'accel_x_g': 0.0398,
+ 'accel_y_g': 0.0173,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 333.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.402551
+{'accel_x_g': 0.0459,
+ 'accel_y_g': 0.0377,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 333.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.508310
+{'accel_x_g': 0.0326,
+ 'accel_y_g': 0.0754,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 333.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.615615
+{'accel_x_g': 0.0418,
+ 'accel_y_g': 0.107,
+ 'accel_z_g': 0.9786,
+ 'bearing_deg': 334.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.720631
+{'accel_x_g': 0.1101,
+ 'accel_y_g': -0.0173,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 335.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.829278
+{'accel_x_g': 0.0968,
+ 'accel_y_g': 0.0877,
+ 'accel_z_g': 1.0183,
+ 'bearing_deg': 336.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:22.935341
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0622,
+ 'accel_z_g': 1.0122,
+ 'bearing_deg': 337.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.043812
+{'accel_x_g': 0.1244,
+ 'accel_y_g': 0.0499,
+ 'accel_z_g': 1.0133,
+ 'bearing_deg': 338.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.151179
+{'accel_x_g': 0.0673,
+ 'accel_y_g': 0.0979,
+ 'accel_z_g': 1.0224,
+ 'bearing_deg': 339.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.258627
+{'accel_x_g': 0.0724,
+ 'accel_y_g': 0.0846,
+ 'accel_z_g': 1.0377,
+ 'bearing_deg': 340.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.364442
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0234,
+ 'accel_z_g': 0.947,
+ 'bearing_deg': 341.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.470588
+{'accel_x_g': 0.1295,
+ 'accel_y_g': 0.0102,
+ 'accel_z_g': 0.9399,
+ 'bearing_deg': 342.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.576718
+{'accel_x_g': 0.1111,
+ 'accel_y_g': -0.0795,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 343.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.682229
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.1213,
+ 'accel_z_g': 1.0938,
+ 'bearing_deg': 342.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.789050
+{'accel_x_g': -0.0194,
+ 'accel_y_g': -0.1254,
+ 'accel_z_g': 1.0979,
+ 'bearing_deg': 341.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:23.897690
+{'accel_x_g': 0.0082,
+ 'accel_y_g': 0.0224,
+ 'accel_z_g': 0.9602,
+ 'bearing_deg': 339.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.004564
+{'accel_x_g': 0.0489,
+ 'accel_y_g': -0.0815,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 337.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.112743
+{'accel_x_g': 0.0683,
+ 'accel_y_g': 0.0122,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 335.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.219919
+{'accel_x_g': 0.0479,
+ 'accel_y_g': -0.0387,
+ 'accel_z_g': 0.9072,
+ 'bearing_deg': 334.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.326967
+{'accel_x_g': 0.0642,
+ 'accel_y_g': 0.0051,
+ 'accel_z_g': 0.9623,
+ 'bearing_deg': 333.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.432907
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.052,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 331.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.539174
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.001,
+ 'accel_z_g': 0.9409,
+ 'bearing_deg': 329.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.644833
+{'accel_x_g': 0.1009,
+ 'accel_y_g': -0.0428,
+ 'accel_z_g': 1.0112,
+ 'bearing_deg': 328.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.752540
+{'accel_x_g': 0.0795,
+ 'accel_y_g': -0.053,
+ 'accel_z_g': 1.0082,
+ 'bearing_deg': 326.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.857601
+{'accel_x_g': 0.0714,
+ 'accel_y_g': -0.0173,
+ 'accel_z_g': 1.0214,
+ 'bearing_deg': 325.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:24.968603
+{'accel_x_g': 0.0591,
+ 'accel_y_g': 0.0163,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 324.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.073557
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0173,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 323.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.180697
+{'accel_x_g': 0.0612,
+ 'accel_y_g': -0.0082,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 322.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.288223
+{'accel_x_g': 0.0775,
+ 'accel_y_g': -0.0102,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 321.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.395179
+{'accel_x_g': 0.0652,
+ 'accel_y_g': -0.0061,
+ 'accel_z_g': 1.0082,
+ 'bearing_deg': 320.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.501344
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0377,
+ 'accel_z_g': 0.9867,
+ 'bearing_deg': 319.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.607470
+{'accel_x_g': 0.0815,
+ 'accel_y_g': 0.0183,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 318.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.712967
+{'accel_x_g': 0.0856,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 317.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.819175
+{'accel_x_g': 0.0703,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 315.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:25.925441
+{'accel_x_g': 0.0194,
+ 'accel_y_g': 0.0357,
+ 'accel_z_g': 0.9694,
+ 'bearing_deg': 313.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.034314
+{'accel_x_g': 0.0561,
+ 'accel_y_g': 0.0163,
+ 'accel_z_g': 0.9857,
+ 'bearing_deg': 311.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.140966
+{'accel_x_g': 0.0826,
+ 'accel_y_g': -0.0133,
+ 'accel_z_g': 1.0163,
+ 'bearing_deg': 309.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.248801
+{'accel_x_g': 0.0591,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 308.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.355557
+{'accel_x_g': 0.0499,
+ 'accel_y_g': 0.0316,
+ 'accel_z_g': 0.9888,
+ 'bearing_deg': 306.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.463098
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0112,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 304.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.568443
+{'accel_x_g': 0.0979,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 302.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.674558
+{'accel_x_g': 0.0673,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 1.0041,
+ 'bearing_deg': 301.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.781414
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0082,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 298.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.886371
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0469,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 297.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:26.992596
+{'accel_x_g': 0.0622,
+ 'accel_y_g': 0.0367,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 295.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.102342
+{'accel_x_g': 0.054,
+ 'accel_y_g': 0.0194,
+ 'accel_z_g': 1.0122,
+ 'bearing_deg': 294.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.207539
+{'accel_x_g': 0.0571,
+ 'accel_y_g': -0.0082,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 293.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.315758
+{'accel_x_g': 0.0765,
+ 'accel_y_g': -0.0112,
+ 'accel_z_g': 1.0061,
+ 'bearing_deg': 293.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.422188
+{'accel_x_g': 0.0836,
+ 'accel_y_g': -0.0112,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 292.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.531457
+{'accel_x_g': 0.0703,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 292.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.636265
+{'accel_x_g': 0.0622,
+ 'accel_y_g': 0.0204,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 293.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.742018
+{'accel_x_g': 0.0652,
+ 'accel_y_g': 0.001,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 294.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.848056
+{'accel_x_g': 0.0775,
+ 'accel_y_g': -0.0183,
+ 'accel_z_g': 1.0204,
+ 'bearing_deg': 296.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:27.954153
+{'accel_x_g': 0.0724,
+ 'accel_y_g': -0.0214,
+ 'accel_z_g': 1.0061,
+ 'bearing_deg': 299.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.063560
+{'accel_x_g': 0.0601,
+ 'accel_y_g': 0.0092,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 301.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.169246
+{'accel_x_g': 0.0581,
+ 'accel_y_g': -0.0153,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 304.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.275394
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 306.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.383688
+{'accel_x_g': 0.0887,
+ 'accel_y_g': 0.0275,
+ 'accel_z_g': 1.0071,
+ 'bearing_deg': 308.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.489837
+{'accel_x_g': 0.0591,
+ 'accel_y_g': 0.0296,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 310.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.597951
+{'accel_x_g': 0.0499,
+ 'accel_y_g': 0.0663,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 311.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.706252
+{'accel_x_g': 0.0449,
+ 'accel_y_g': 0.0428,
+ 'accel_z_g': 0.9755,
+ 'bearing_deg': 312.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.809820
+{'accel_x_g': 0.0601,
+ 'accel_y_g': 0.0071,
+ 'accel_z_g': 1.0163,
+ 'bearing_deg': 314.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:28.915727
+{'accel_x_g': 0.0438,
+ 'accel_y_g': 0.0652,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 316.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.022103
+{'accel_x_g': 0.0459,
+ 'accel_y_g': 0.0744,
+ 'accel_z_g': 0.9429,
+ 'bearing_deg': 318.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.129334
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.1121,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 321.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.236373
+{'accel_x_g': 0.0418,
+ 'accel_y_g': 0.0479,
+ 'accel_z_g': 0.9766,
+ 'bearing_deg': 324.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.342612
+{'accel_x_g': 0.1244,
+ 'accel_y_g': -0.0775,
+ 'accel_z_g': 1.0153,
+ 'bearing_deg': 326.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.450935
+{'accel_x_g': 0.0408,
+ 'accel_y_g': 0.0092,
+ 'accel_z_g': 0.9083,
+ 'bearing_deg': 328.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.557608
+{'accel_x_g': -0.0306,
+ 'accel_y_g': 0.1651,
+ 'accel_z_g': 0.9664,
+ 'bearing_deg': 331.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.666228
+{'accel_x_g': 0.1386,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 1.0387,
+ 'bearing_deg': 333.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.771745
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0061,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 336.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.878168
+{'accel_x_g': 0.0714,
+ 'accel_y_g': 0.0183,
+ 'accel_z_g': 0.9572,
+ 'bearing_deg': 338.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:29.983613
+{'accel_x_g': 0.0714,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 341.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.093078
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0194,
+ 'accel_z_g': 0.9857,
+ 'bearing_deg': 344.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.196611
+{'accel_x_g': 0.051,
+ 'accel_y_g': 0.0367,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 346.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.304065
+{'accel_x_g': 0.0398,
+ 'accel_y_g': 0.0296,
+ 'accel_z_g': 1.0255,
+ 'bearing_deg': 349.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.411432
+{'accel_x_g': 0.0489,
+ 'accel_y_g': 0.0367,
+ 'accel_z_g': 1.0061,
+ 'bearing_deg': 351.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.519349
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0591,
+ 'accel_z_g': 0.9867,
+ 'bearing_deg': 353.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.625414
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0051,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 355.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.733406
+{'accel_x_g': 0.105,
+ 'accel_y_g': -0.0071,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 356.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.839667
+{'accel_x_g': 0.0612,
+ 'accel_y_g': 0.0163,
+ 'accel_z_g': 0.9857,
+ 'bearing_deg': 357.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:30.945483
+{'accel_x_g': 0.0765,
+ 'accel_y_g': 0.0051,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 358.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.051515
+{'accel_x_g': 0.0632,
+ 'accel_y_g': 0.0265,
+ 'accel_z_g': 1.0,
+ 'bearing_deg': 359.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.157928
+{'accel_x_g': 0.0336,
+ 'accel_y_g': 0.0703,
+ 'accel_z_g': 1.0071,
+ 'bearing_deg': 359.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.264339
+{'accel_x_g': 0.0255,
+ 'accel_y_g': 0.0153,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 359.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.372492
+{'accel_x_g': 0.0815,
+ 'accel_y_g': 0.0224,
+ 'accel_z_g': 0.947,
+ 'bearing_deg': 0.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.478809
+{'accel_x_g': 0.0418,
+ 'accel_y_g': 0.0999,
+ 'accel_z_g': 0.9766,
+ 'bearing_deg': 1.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.587135
+{'accel_x_g': -0.0326,
+ 'accel_y_g': 0.2018,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 2.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.693985
+{'accel_x_g': 0.4975,
+ 'accel_y_g': -0.3394,
+ 'accel_z_g': 1.4475,
+ 'bearing_deg': 3.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.802092
+{'accel_x_g': 0.1335,
+ 'accel_y_g': -0.4771,
+ 'accel_z_g': 0.897,
+ 'bearing_deg': 2.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:31.907742
+{'accel_x_g': -0.3231,
+ 'accel_y_g': 0.4648,
+ 'accel_z_g': 1.682,
+ 'bearing_deg': 2.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.019128
+{'accel_x_g': 0.1274,
+ 'accel_y_g': -0.055,
+ 'accel_z_g': 1.0316,
+ 'bearing_deg': 2.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.122328
+{'accel_x_g': 0.0449,
+ 'accel_y_g': -0.0989,
+ 'accel_z_g': 0.474,
+ 'bearing_deg': 1.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.225721
+{'accel_x_g': 0.0336,
+ 'accel_y_g': 0.156,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 0.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.332386
+{'accel_x_g': -0.0958,
+ 'accel_y_g': 0.2681,
+ 'accel_z_g': 1.5229,
+ 'bearing_deg': 0.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.441059
+{'accel_x_g': 0.1019,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 1.0214,
+ 'bearing_deg': 0.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.547739
+{'accel_x_g': -0.1927,
+ 'accel_y_g': 0.1498,
+ 'accel_z_g': 0.8186,
+ 'bearing_deg': 359.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.655564
+{'accel_x_g': -0.001,
+ 'accel_y_g': -0.0877,
+ 'accel_z_g': 1.2273,
+ 'bearing_deg': 359.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.762565
+{'accel_x_g': 0.104,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9827,
+ 'bearing_deg': 359.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.870036
+{'accel_x_g': 0.1254,
+ 'accel_y_g': -0.3242,
+ 'accel_z_g': 0.844,
+ 'bearing_deg': 0.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:32.975961
+{'accel_x_g': 0.156,
+ 'accel_y_g': -0.0479,
+ 'accel_z_g': 1.2926,
+ 'bearing_deg': 0.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.081746
+{'accel_x_g': 0.2069,
+ 'accel_y_g': 0.1784,
+ 'accel_z_g': 1.3812,
+ 'bearing_deg': 1.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.187678
+{'accel_x_g': 0.105,
+ 'accel_y_g': -0.0877,
+ 'accel_z_g': 1.1733,
+ 'bearing_deg': 1.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.293366
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0703,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 1.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.399686
+{'accel_x_g': -0.1264,
+ 'accel_y_g': 0.2538,
+ 'accel_z_g': 0.7339,
+ 'bearing_deg': 0.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.507851
+{'accel_x_g': 0.0612,
+ 'accel_y_g': -0.369,
+ 'accel_z_g': 1.4709,
+ 'bearing_deg': 0.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.613915
+{'accel_x_g': -0.2069,
+ 'accel_y_g': -0.317,
+ 'accel_z_g': 0.8247,
+ 'bearing_deg': 1.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.722332
+{'accel_x_g': -0.0673,
+ 'accel_y_g': 0.0285,
+ 'accel_z_g': 0.524,
+ 'bearing_deg': 1.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.829054
+{'accel_x_g': -0.0326,
+ 'accel_y_g': -0.0143,
+ 'accel_z_g': 1.2039,
+ 'bearing_deg': 2.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:33.937054
+{'accel_x_g': 0.3649,
+ 'accel_y_g': -0.0846,
+ 'accel_z_g': 1.2487,
+ 'bearing_deg': 2.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.042759
+{'accel_x_g': -0.419,
+ 'accel_y_g': 0.0082,
+ 'accel_z_g': 0.8695,
+ 'bearing_deg': 2.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.149946
+{'accel_x_g': 0.051,
+ 'accel_y_g': -0.1896,
+ 'accel_z_g': 1.1549,
+ 'bearing_deg': 2.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.257270
+{'accel_x_g': -0.0163,
+ 'accel_y_g': -0.2059,
+ 'accel_z_g': 0.9011,
+ 'bearing_deg': 3.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.363388
+{'accel_x_g': -0.3109,
+ 'accel_y_g': 0.8654,
+ 'accel_z_g': 1.4027,
+ 'bearing_deg': 3.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.467464
+{'accel_x_g': 0.1305,
+ 'accel_y_g': 0.2151,
+ 'accel_z_g': 1.472,
+ 'bearing_deg': 3.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.576665
+{'accel_x_g': 0.1284,
+ 'accel_y_g': 0.1305,
+ 'accel_z_g': 0.9134,
+ 'bearing_deg': 4.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.681849
+{'accel_x_g': 0.0479,
+ 'accel_y_g': -0.0183,
+ 'accel_z_g': 0.7778,
+ 'bearing_deg': 4.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.789963
+{'accel_x_g': 0.2039,
+ 'accel_y_g': -0.2915,
+ 'accel_z_g': 1.1335,
+ 'bearing_deg': 3.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:34.897049
+{'accel_x_g': 0.0683,
+ 'accel_y_g': -0.2813,
+ 'accel_z_g': 1.1804,
+ 'bearing_deg': 3.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.004707
+{'accel_x_g': 0.3843,
+ 'accel_y_g': -0.0693,
+ 'accel_z_g': 1.1203,
+ 'bearing_deg': 4.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.110412
+{'accel_x_g': -0.1672,
+ 'accel_y_g': 0.2365,
+ 'accel_z_g': 0.84,
+ 'bearing_deg': 4.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.216797
+{'accel_x_g': 0.2069,
+ 'accel_y_g': 0.0693,
+ 'accel_z_g': 1.4536,
+ 'bearing_deg': 4.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.322144
+{'accel_x_g': 0.1203,
+ 'accel_y_g': -0.0785,
+ 'accel_z_g': 0.8777,
+ 'bearing_deg': 4.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.428289
+{'accel_x_g': 0.0041,
+ 'accel_y_g': -0.0418,
+ 'accel_z_g': 0.8389,
+ 'bearing_deg': 4.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.534539
+{'accel_x_g': 0.0489,
+ 'accel_y_g': -0.0041,
+ 'accel_z_g': 1.1233,
+ 'bearing_deg': 5.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.642639
+{'accel_x_g': 0.0031,
+ 'accel_y_g': -0.3517,
+ 'accel_z_g': 0.7768,
+ 'bearing_deg': 5.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.748808
+{'accel_x_g': 0.2508,
+ 'accel_y_g': 0.4699,
+ 'accel_z_g': 0.6504,
+ 'bearing_deg': 5.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.857184
+{'accel_x_g': 0.314,
+ 'accel_y_g': -0.0928,
+ 'accel_z_g': 1.1957,
+ 'bearing_deg': 5.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:35.964233
+{'accel_x_g': 0.1019,
+ 'accel_y_g': -0.0928,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 5.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.071814
+{'accel_x_g': 0.2059,
+ 'accel_y_g': -0.0469,
+ 'accel_z_g': 0.579,
+ 'bearing_deg': 4.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.177435
+{'accel_x_g': 0.0826,
+ 'accel_y_g': -0.2966,
+ 'accel_z_g': 1.0877,
+ 'bearing_deg': 2.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.283615
+{'accel_x_g': -0.3619,
+ 'accel_y_g': 0.3812,
+ 'accel_z_g': 0.9817,
+ 'bearing_deg': 1.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.389313
+{'accel_x_g': 0.2681,
+ 'accel_y_g': -0.0734,
+ 'accel_z_g': 0.8369,
+ 'bearing_deg': 359.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.495473
+{'accel_x_g': -0.1621,
+ 'accel_y_g': -0.0479,
+ 'accel_z_g': 1.2069,
+ 'bearing_deg': 357.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.603237
+{'accel_x_g': -0.2742,
+ 'accel_y_g': 0.3884,
+ 'accel_z_g': 0.7329,
+ 'bearing_deg': 355.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.710510
+{'accel_x_g': -0.0958,
+ 'accel_y_g': 0.5688,
+ 'accel_z_g': 1.0917,
+ 'bearing_deg': 355.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.817477
+{'accel_x_g': -0.0347,
+ 'accel_y_g': 0.0734,
+ 'accel_z_g': 1.6014,
+ 'bearing_deg': 356.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:36.926519
+{'accel_x_g': 0.1549,
+ 'accel_y_g': -0.4709,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 356.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.032551
+{'accel_x_g': 0.1356,
+ 'accel_y_g': -0.2477,
+ 'accel_z_g': 0.9215,
+ 'bearing_deg': 356.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.140198
+{'accel_x_g': 0.1764,
+ 'accel_y_g': 0.1651,
+ 'accel_z_g': 0.7034,
+ 'bearing_deg': 356.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.246418
+{'accel_x_g': 0.2905,
+ 'accel_y_g': 0.0387,
+ 'accel_z_g': 1.0581,
+ 'bearing_deg': 356.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.352097
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0693,
+ 'accel_z_g': 0.7095,
+ 'bearing_deg': 356.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.457780
+{'accel_x_g': 0.1651,
+ 'accel_y_g': -0.105,
+ 'accel_z_g': 0.7757,
+ 'bearing_deg': 355.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.564200
+{'accel_x_g': -0.1386,
+ 'accel_y_g': -0.0418,
+ 'accel_z_g': 1.0183,
+ 'bearing_deg': 355.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.670319
+{'accel_x_g': 0.1621,
+ 'accel_y_g': 0.2151,
+ 'accel_z_g': 1.3955,
+ 'bearing_deg': 353.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.778611
+{'accel_x_g': -0.4995,
+ 'accel_y_g': 0.0183,
+ 'accel_z_g': 0.7513,
+ 'bearing_deg': 351.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.885739
+{'accel_x_g': -0.3242,
+ 'accel_y_g': 0.2987,
+ 'accel_z_g': 1.1407,
+ 'bearing_deg': 349.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:37.993053
+{'accel_x_g': 0.0234,
+ 'accel_y_g': 0.1182,
+ 'accel_z_g': 1.1142,
+ 'bearing_deg': 348.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.102273
+{'accel_x_g': 0.1448,
+ 'accel_y_g': -0.2192,
+ 'accel_z_g': 0.8451,
+ 'bearing_deg': 347.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.208820
+{'accel_x_g': 0.0214,
+ 'accel_y_g': -0.2834,
+ 'accel_z_g': 1.0571,
+ 'bearing_deg': 347.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.315045
+{'accel_x_g': 0.0398,
+ 'accel_y_g': -0.264,
+ 'accel_z_g': 1.0561,
+ 'bearing_deg': 346.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.420101
+{'accel_x_g': 0.0153,
+ 'accel_y_g': -0.2936,
+ 'accel_z_g': 1.2487,
+ 'bearing_deg': 346.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.526239
+{'accel_x_g': 0.0398,
+ 'accel_y_g': -0.1825,
+ 'accel_z_g': 1.2049,
+ 'bearing_deg': 346.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.633020
+{'accel_x_g': 0.1672,
+ 'accel_y_g': 0.0856,
+ 'accel_z_g': 1.264,
+ 'bearing_deg': 346.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.739718
+{'accel_x_g': -0.2039,
+ 'accel_y_g': 0.1203,
+ 'accel_z_g': 0.8135,
+ 'bearing_deg': 345.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.847030
+{'accel_x_g': -0.1315,
+ 'accel_y_g': 0.0805,
+ 'accel_z_g': 1.4016,
+ 'bearing_deg': 345.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:38.955443
+{'accel_x_g': 0.0693,
+ 'accel_y_g': 0.0153,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 345.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.062129
+{'accel_x_g': -0.0061,
+ 'accel_y_g': -0.3649,
+ 'accel_z_g': 0.5698,
+ 'bearing_deg': 345.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.171077
+{'accel_x_g': -0.0469,
+ 'accel_y_g': -0.1488,
+ 'accel_z_g': 0.8909,
+ 'bearing_deg': 345.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.277946
+{'accel_x_g': -0.2538,
+ 'accel_y_g': 0.1651,
+ 'accel_z_g': 1.2661,
+ 'bearing_deg': 345.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.382869
+{'accel_x_g': -0.1386,
+ 'accel_y_g': -0.1081,
+ 'accel_z_g': 1.2854,
+ 'bearing_deg': 343.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.488665
+{'accel_x_g': 0.1937,
+ 'accel_y_g': -0.5362,
+ 'accel_z_g': 0.8981,
+ 'bearing_deg': 341.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.594865
+{'accel_x_g': -0.2406,
+ 'accel_y_g': 0.6667,
+ 'accel_z_g': 0.7441,
+ 'bearing_deg': 340.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.702679
+{'accel_x_g': -0.3721,
+ 'accel_y_g': 0.5148,
+ 'accel_z_g': 1.0082,
+ 'bearing_deg': 339.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.810288
+{'accel_x_g': 0.1988,
+ 'accel_y_g': -0.3109,
+ 'accel_z_g': 1.0561,
+ 'bearing_deg': 338.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:39.917587
+{'accel_x_g': 0.3252,
+ 'accel_y_g': 0.4128,
+ 'accel_z_g': 0.7564,
+ 'bearing_deg': 338.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.024969
+{'accel_x_g': 0.1346,
+ 'accel_y_g': -0.0377,
+ 'accel_z_g': 1.0204,
+ 'bearing_deg': 338.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.132947
+{'accel_x_g': -0.001,
+ 'accel_y_g': 0.208,
+ 'accel_z_g': 1.0173,
+ 'bearing_deg': 338.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.239718
+{'accel_x_g': 0.3252,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 0.7472,
+ 'bearing_deg': 338.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.345701
+{'accel_x_g': 0.2548,
+ 'accel_y_g': -0.1753,
+ 'accel_z_g': 1.2069,
+ 'bearing_deg': 338.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.451689
+{'accel_x_g': 0.0326,
+ 'accel_y_g': -0.2355,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 338.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.558789
+{'accel_x_g': 0.315,
+ 'accel_y_g': 0.4363,
+ 'accel_z_g': 0.6239,
+ 'bearing_deg': 339.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.663551
+{'accel_x_g': 0.2406,
+ 'accel_y_g': -0.3109,
+ 'accel_z_g': 1.2314,
+ 'bearing_deg': 339.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.770276
+{'accel_x_g': -0.0265,
+ 'accel_y_g': 0.1295,
+ 'accel_z_g': 1.3344,
+ 'bearing_deg': 338.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.878572
+{'accel_x_g': 0.1478,
+ 'accel_y_g': -0.1274,
+ 'accel_z_g': 1.2171,
+ 'bearing_deg': 337.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:40.985998
+{'accel_x_g': -0.2365,
+ 'accel_y_g': -0.1274,
+ 'accel_z_g': 0.5545,
+ 'bearing_deg': 336.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.093538
+{'accel_x_g': 0.3445,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 1.1315,
+ 'bearing_deg': 336.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.202879
+{'accel_x_g': 0.1193,
+ 'accel_y_g': -0.317,
+ 'accel_z_g': 0.6534,
+ 'bearing_deg': 336.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.308187
+{'accel_x_g': 0.157,
+ 'accel_y_g': 0.0153,
+ 'accel_z_g': 1.1264,
+ 'bearing_deg': 336.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.414078
+{'accel_x_g': 0.2008,
+ 'accel_y_g': -0.5678,
+ 'accel_z_g': 1.2283,
+ 'bearing_deg': 337.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.520229
+{'accel_x_g': 0.2487,
+ 'accel_y_g': -0.1519,
+ 'accel_z_g': 0.7095,
+ 'bearing_deg': 337.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.626197
+{'accel_x_g': 0.1662,
+ 'accel_y_g': 0.002,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 338.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.732977
+{'accel_x_g': 0.1315,
+ 'accel_y_g': -0.1346,
+ 'accel_z_g': 0.8716,
+ 'bearing_deg': 338.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.839397
+{'accel_x_g': 0.4709,
+ 'accel_y_g': -0.318,
+ 'accel_z_g': 1.0571,
+ 'bearing_deg': 339.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:41.947461
+{'accel_x_g': 0.1794,
+ 'accel_y_g': 0.3456,
+ 'accel_z_g': 0.9541,
+ 'bearing_deg': 339.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.055862
+{'accel_x_g': 0.0846,
+ 'accel_y_g': 0.3894,
+ 'accel_z_g': 0.791,
+ 'bearing_deg': 339.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.161799
+{'accel_x_g': 0.0979,
+ 'accel_y_g': -0.2385,
+ 'accel_z_g': 0.6707,
+ 'bearing_deg': 338.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.272852
+{'accel_x_g': 0.3629,
+ 'accel_y_g': -0.0591,
+ 'accel_z_g': 1.0866,
+ 'bearing_deg': 338.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.376790
+{'accel_x_g': 0.1244,
+ 'accel_y_g': 0.2599,
+ 'accel_z_g': 0.841,
+ 'bearing_deg': 337.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.482614
+{'accel_x_g': 0.1876,
+ 'accel_y_g': -0.4801,
+ 'accel_z_g': 0.9378,
+ 'bearing_deg': 335.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.588717
+{'accel_x_g': 0.4801,
+ 'accel_y_g': -0.1651,
+ 'accel_z_g': 0.7574,
+ 'bearing_deg': 334.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.694523
+{'accel_x_g': 0.0714,
+ 'accel_y_g': -0.0489,
+ 'accel_z_g': 0.9653,
+ 'bearing_deg': 332.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.801415
+{'accel_x_g': -0.1264,
+ 'accel_y_g': -0.0917,
+ 'accel_z_g': 0.8614,
+ 'bearing_deg': 329.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:42.909465
+{'accel_x_g': 0.1845,
+ 'accel_y_g': 0.0724,
+ 'accel_z_g': 0.7309,
+ 'bearing_deg': 327.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.016705
+{'accel_x_g': -0.1325,
+ 'accel_y_g': -0.0877,
+ 'accel_z_g': 1.1162,
+ 'bearing_deg': 326.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.124022
+{'accel_x_g': 0.1713,
+ 'accel_y_g': -0.4913,
+ 'accel_z_g': 1.1825,
+ 'bearing_deg': 325.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.232014
+{'accel_x_g': 0.3496,
+ 'accel_y_g': -0.6269,
+ 'accel_z_g': 1.0979,
+ 'bearing_deg': 325.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.339897
+{'accel_x_g': 0.053,
+ 'accel_y_g': 0.103,
+ 'accel_z_g': 1.0499,
+ 'bearing_deg': 325.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.445812
+{'accel_x_g': 0.1478,
+ 'accel_y_g': -0.4292,
+ 'accel_z_g': 0.5708,
+ 'bearing_deg': 324.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.551682
+{'accel_x_g': 0.0224,
+ 'accel_y_g': -0.0133,
+ 'accel_z_g': 1.2181,
+ 'bearing_deg': 324.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.657922
+{'accel_x_g': 0.2222,
+ 'accel_y_g': 0.0703,
+ 'accel_z_g': 1.052,
+ 'bearing_deg': 325.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.763764
+{'accel_x_g': -0.002,
+ 'accel_y_g': -0.2732,
+ 'accel_z_g': 1.263,
+ 'bearing_deg': 325.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.872690
+{'accel_x_g': 0.0234,
+ 'accel_y_g': 0.2069,
+ 'accel_z_g': 0.8359,
+ 'bearing_deg': 325.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:43.978269
+{'accel_x_g': -0.0408,
+ 'accel_y_g': 0.0652,
+ 'accel_z_g': 1.055,
+ 'bearing_deg': 325.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.085568
+{'accel_x_g': 0.1091,
+ 'accel_y_g': -0.1009,
+ 'accel_z_g': 0.787,
+ 'bearing_deg': 324.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.194278
+{'accel_x_g': -0.1998,
+ 'accel_y_g': 0.0958,
+ 'accel_z_g': 1.1254,
+ 'bearing_deg': 322.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.300585
+{'accel_x_g': 0.1549,
+ 'accel_y_g': -0.1519,
+ 'accel_z_g': 0.9042,
+ 'bearing_deg': 319.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.409036
+{'accel_x_g': -0.0143,
+ 'accel_y_g': 0.0204,
+ 'accel_z_g': 0.8787,
+ 'bearing_deg': 316.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.514885
+{'accel_x_g': 0.1152,
+ 'accel_y_g': -0.0326,
+ 'accel_z_g': 0.9501,
+ 'bearing_deg': 315.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.620837
+{'accel_x_g': 0.1386,
+ 'accel_y_g': 0.0173,
+ 'accel_z_g': 0.8726,
+ 'bearing_deg': 314.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.726744
+{'accel_x_g': 0.1498,
+ 'accel_y_g': 0.1539,
+ 'accel_z_g': 0.7207,
+ 'bearing_deg': 313.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.833067
+{'accel_x_g': -0.0153,
+ 'accel_y_g': -0.0398,
+ 'accel_z_g': 0.9185,
+ 'bearing_deg': 313.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:44.940018
+{'accel_x_g': 0.0765,
+ 'accel_y_g': -0.2212,
+ 'accel_z_g': 1.0336,
+ 'bearing_deg': 313.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.048908
+{'accel_x_g': 0.0744,
+ 'accel_y_g': -0.0714,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 313.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.155171
+{'accel_x_g': 0.0428,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9857,
+ 'bearing_deg': 313.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.263488
+{'accel_x_g': -0.0153,
+ 'accel_y_g': -0.001,
+ 'accel_z_g': 1.1009,
+ 'bearing_deg': 312.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.370448
+{'accel_x_g': 0.1091,
+ 'accel_y_g': 0.0326,
+ 'accel_z_g': 0.9857,
+ 'bearing_deg': 312.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.478321
+{'accel_x_g': 0.1264,
+ 'accel_y_g': -0.1498,
+ 'accel_z_g': 1.0826,
+ 'bearing_deg': 312.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.584766
+{'accel_x_g': 0.1774,
+ 'accel_y_g': -0.1172,
+ 'accel_z_g': 1.0194,
+ 'bearing_deg': 312.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.690247
+{'accel_x_g': -0.0336,
+ 'accel_y_g': 0.1845,
+ 'accel_z_g': 0.7187,
+ 'bearing_deg': 311.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.799715
+{'accel_x_g': 0.0194,
+ 'accel_y_g': 0.0622,
+ 'accel_z_g': 1.0357,
+ 'bearing_deg': 311.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:45.902486
+{'accel_x_g': 0.3394,
+ 'accel_y_g': 0.2732,
+ 'accel_z_g': 1.1131,
+ 'bearing_deg': 311.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.008710
+{'accel_x_g': 0.1142,
+ 'accel_y_g': 0.0989,
+ 'accel_z_g': 0.9195,
+ 'bearing_deg': 311.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.119261
+{'accel_x_g': 0.1295,
+ 'accel_y_g': -0.2008,
+ 'accel_z_g': 0.8379,
+ 'bearing_deg': 312.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.223202
+{'accel_x_g': 0.1458,
+ 'accel_y_g': -0.2029,
+ 'accel_z_g': 1.0479,
+ 'bearing_deg': 313.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.331310
+{'accel_x_g': 0.054,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 1.0041,
+ 'bearing_deg': 313.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.438535
+{'accel_x_g': 0.1203,
+ 'accel_y_g': 0.0061,
+ 'accel_z_g': 0.9429,
+ 'bearing_deg': 313.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.546119
+{'accel_x_g': 0.1386,
+ 'accel_y_g': -0.0194,
+ 'accel_z_g': 1.0459,
+ 'bearing_deg': 314.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.651744
+{'accel_x_g': 0.0438,
+ 'accel_y_g': -0.0306,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 316.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.758161
+{'accel_x_g': 0.0703,
+ 'accel_y_g': -0.002,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 318.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.864048
+{'accel_x_g': 0.1131,
+ 'accel_y_g': -0.0163,
+ 'accel_z_g': 1.0449,
+ 'bearing_deg': 320.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:46.970279
+{'accel_x_g': 0.1091,
+ 'accel_y_g': -0.0357,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 322.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.076669
+{'accel_x_g': 0.052,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.8716,
+ 'bearing_deg': 323.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.185296
+{'accel_x_g': 0.1356,
+ 'accel_y_g': 0.0163,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 326.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.294348
+{'accel_x_g': 0.1142,
+ 'accel_y_g': -0.0367,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 327.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.400123
+{'accel_x_g': 0.0673,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 0.9062,
+ 'bearing_deg': 329.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.507393
+{'accel_x_g': 0.1397,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 1.0316,
+ 'bearing_deg': 331.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.615997
+{'accel_x_g': 0.1131,
+ 'accel_y_g': 0.0112,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 333.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.722151
+{'accel_x_g': 0.1264,
+ 'accel_y_g': -0.0612,
+ 'accel_z_g': 1.0153,
+ 'bearing_deg': 335.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.826791
+{'accel_x_g': 0.1121,
+ 'accel_y_g': 0.051,
+ 'accel_z_g': 0.945,
+ 'bearing_deg': 338.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:47.932622
+{'accel_x_g': 0.1335,
+ 'accel_y_g': 0.0418,
+ 'accel_z_g': 0.947,
+ 'bearing_deg': 342.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.038800
+{'accel_x_g': 0.0,
+ 'accel_y_g': 0.1193,
+ 'accel_z_g': 1.0377,
+ 'bearing_deg': 345.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.147632
+{'accel_x_g': 0.1182,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 349.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.254043
+{'accel_x_g': 0.1274,
+ 'accel_y_g': 0.0245,
+ 'accel_z_g': 0.9348,
+ 'bearing_deg': 353.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.360251
+{'accel_x_g': 0.0316,
+ 'accel_y_g': 0.1346,
+ 'accel_z_g': 1.1111,
+ 'bearing_deg': 356.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.468081
+{'accel_x_g': 0.1407,
+ 'accel_y_g': 0.0133,
+ 'accel_z_g': 0.9623,
+ 'bearing_deg': 359.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.575495
+{'accel_x_g': 0.1651,
+ 'accel_y_g': -0.1019,
+ 'accel_z_g': 1.0418,
+ 'bearing_deg': 3.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.682868
+{'accel_x_g': 0.1009,
+ 'accel_y_g': -0.1121,
+ 'accel_z_g': 1.0122,
+ 'bearing_deg': 6.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.788688
+{'accel_x_g': 0.0683,
+ 'accel_y_g': 0.0805,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 10.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:48.894760
+{'accel_x_g': 0.1019,
+ 'accel_y_g': 0.0,
+ 'accel_z_g': 0.9847,
+ 'bearing_deg': 14.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.000250
+{'accel_x_g': 0.1407,
+ 'accel_y_g': 0.0071,
+ 'accel_z_g': 0.9684,
+ 'bearing_deg': 18.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.107200
+{'accel_x_g': 0.1458,
+ 'accel_y_g': -0.0357,
+ 'accel_z_g': 1.0092,
+ 'bearing_deg': 21.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.212861
+{'accel_x_g': 0.0296,
+ 'accel_y_g': 0.0041,
+ 'accel_z_g': 0.9164,
+ 'bearing_deg': 24.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.321428
+{'accel_x_g': 0.1019,
+ 'accel_y_g': -0.051,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 28.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.427552
+{'accel_x_g': 0.1162,
+ 'accel_y_g': 0.0122,
+ 'accel_z_g': 0.9827,
+ 'bearing_deg': 31.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.535376
+{'accel_x_g': 0.0357,
+ 'accel_y_g': 0.0255,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 33.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.642992
+{'accel_x_g': 0.0479,
+ 'accel_y_g': 0.0581,
+ 'accel_z_g': 1.0367,
+ 'bearing_deg': 35.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.750374
+{'accel_x_g': 0.0703,
+ 'accel_y_g': 0.0795,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 36.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.856447
+{'accel_x_g': 0.2334,
+ 'accel_y_g': 0.054,
+ 'accel_z_g': 0.5963,
+ 'bearing_deg': 38.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:49.961987
+{'accel_x_g': 0.0071,
+ 'accel_y_g': -0.2294,
+ 'accel_z_g': 0.7829,
+ 'bearing_deg': 40.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.068066
+{'accel_x_g': 0.1549,
+ 'accel_y_g': -0.0805,
+ 'accel_z_g': 1.052,
+ 'bearing_deg': 42.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.174245
+{'accel_x_g': 0.1549,
+ 'accel_y_g': -0.156,
+ 'accel_z_g': 0.6983,
+ 'bearing_deg': 43.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.280489
+{'accel_x_g': 0.0826,
+ 'accel_y_g': -0.0357,
+ 'accel_z_g': 1.0306,
+ 'bearing_deg': 44.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.388623
+{'accel_x_g': 0.0826,
+ 'accel_y_g': 0.0805,
+ 'accel_z_g': 0.9674,
+ 'bearing_deg': 46.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.494348
+{'accel_x_g': -0.0398,
+ 'accel_y_g': -0.0122,
+ 'accel_z_g': 1.0347,
+ 'bearing_deg': 46.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.605018
+{'accel_x_g': 0.0826,
+ 'accel_y_g': -0.0071,
+ 'accel_z_g': 0.8858,
+ 'bearing_deg': 46.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.710337
+{'accel_x_g': 0.0357,
+ 'accel_y_g': 0.1264,
+ 'accel_z_g': 1.1784,
+ 'bearing_deg': 45.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.819682
+{'accel_x_g': 0.0724,
+ 'accel_y_g': 0.1764,
+ 'accel_z_g': 0.9511,
+ 'bearing_deg': 45.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:50.924030
+{'accel_x_g': 0.2762,
+ 'accel_y_g': 0.0561,
+ 'accel_z_g': 0.9806,
+ 'bearing_deg': 44.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.030964
+{'accel_x_g': -0.2202,
+ 'accel_y_g': 0.0469,
+ 'accel_z_g': 0.9429,
+ 'bearing_deg': 44.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.135793
+{'accel_x_g': 0.1733,
+ 'accel_y_g': -0.3619,
+ 'accel_z_g': 1.054,
+ 'bearing_deg': 44.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.242234
+{'accel_x_g': 0.211,
+ 'accel_y_g': 0.2304,
+ 'accel_z_g': 0.7136,
+ 'bearing_deg': 44.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.348983
+{'accel_x_g': 0.0805,
+ 'accel_y_g': -0.2762,
+ 'accel_z_g': 1.107,
+ 'bearing_deg': 44.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.457680
+{'accel_x_g': -0.0499,
+ 'accel_y_g': 0.5413,
+ 'accel_z_g': 0.8461,
+ 'bearing_deg': 44.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.564214
+{'accel_x_g': 0.2396,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 1.0336,
+ 'bearing_deg': 44.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.673329
+{'accel_x_g': 0.1794,
+ 'accel_y_g': 0.1998,
+ 'accel_z_g': 1.2671,
+ 'bearing_deg': 44.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.779188
+{'accel_x_g': 0.0571,
+ 'accel_y_g': -0.0642,
+ 'accel_z_g': 0.9766,
+ 'bearing_deg': 43.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.886680
+{'accel_x_g': 0.0071,
+ 'accel_y_g': -0.0418,
+ 'accel_z_g': 1.1162,
+ 'bearing_deg': 42.5625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:51.993973
+{'accel_x_g': 0.1702,
+ 'accel_y_g': -0.2263,
+ 'accel_z_g': 1.3099,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.098632
+{'accel_x_g': 0.4108,
+ 'accel_y_g': -0.0347,
+ 'accel_z_g': 1.1509,
+ 'bearing_deg': 40.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.205750
+{'accel_x_g': 0.1437,
+ 'accel_y_g': -0.0652,
+ 'accel_z_g': 0.9643,
+ 'bearing_deg': 38.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.310340
+{'accel_x_g': -0.1274,
+ 'accel_y_g': -0.2294,
+ 'accel_z_g': 1.3517,
+ 'bearing_deg': 37.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.416544
+{'accel_x_g': 0.106,
+ 'accel_y_g': 0.0347,
+ 'accel_z_g': 1.0917,
+ 'bearing_deg': 37.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.525146
+{'accel_x_g': 0.1162,
+ 'accel_y_g': -0.0775,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 36.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.631097
+{'accel_x_g': -0.1743,
+ 'accel_y_g': 0.3109,
+ 'accel_z_g': 0.787,
+ 'bearing_deg': 36.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.739692
+{'accel_x_g': -0.0265,
+ 'accel_y_g': 0.314,
+ 'accel_z_g': 0.9266,
+ 'bearing_deg': 36.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.846358
+{'accel_x_g': 0.2762,
+ 'accel_y_g': -0.2691,
+ 'accel_z_g': 1.1172,
+ 'bearing_deg': 36.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:52.954378
+{'accel_x_g': 0.2345,
+ 'accel_y_g': 0.0968,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 36.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.060246
+{'accel_x_g': -0.1947,
+ 'accel_y_g': 0.0785,
+ 'accel_z_g': 1.0265,
+ 'bearing_deg': 35.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.166265
+{'accel_x_g': 0.2742,
+ 'accel_y_g': 0.1978,
+ 'accel_z_g': 0.9653,
+ 'bearing_deg': 34.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.271970
+{'accel_x_g': 0.0255,
+ 'accel_y_g': -0.0642,
+ 'accel_z_g': 1.1702,
+ 'bearing_deg': 33.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.378276
+{'accel_x_g': 0.0724,
+ 'accel_y_g': 0.0275,
+ 'accel_z_g': 1.4822,
+ 'bearing_deg': 32.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.484886
+{'accel_x_g': 0.3384,
+ 'accel_y_g': -0.1845,
+ 'accel_z_g': 0.5821,
+ 'bearing_deg': 31.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.597174
+{'accel_x_g': -0.1529,
+ 'accel_y_g': -0.0051,
+ 'accel_z_g': 1.1896,
+ 'bearing_deg': 30.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.701117
+{'accel_x_g': 0.0693,
+ 'accel_y_g': 0.0183,
+ 'accel_z_g': 0.7136,
+ 'bearing_deg': 29.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.807837
+{'accel_x_g': 0.0459,
+ 'accel_y_g': 0.1295,
+ 'accel_z_g': 1.0765,
+ 'bearing_deg': 29.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:53.916074
+{'accel_x_g': -0.0744,
+ 'accel_y_g': 0.0163,
+ 'accel_z_g': 0.9388,
+ 'bearing_deg': 29.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.022520
+{'accel_x_g': 0.1131,
+ 'accel_y_g': 0.0775,
+ 'accel_z_g': 0.6932,
+ 'bearing_deg': 28.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.128431
+{'accel_x_g': 0.1835,
+ 'accel_y_g': 0.2355,
+ 'accel_z_g': 0.9837,
+ 'bearing_deg': 28.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.235710
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.1692,
+ 'accel_z_g': 1.0571,
+ 'bearing_deg': 27.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.346910
+{'accel_x_g': 0.1488,
+ 'accel_y_g': -0.1488,
+ 'accel_z_g': 1.0469,
+ 'bearing_deg': 26.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.446306
+{'accel_x_g': 0.0255,
+ 'accel_y_g': -0.1927,
+ 'accel_z_g': 1.0112,
+ 'bearing_deg': 25.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.552715
+{'accel_x_g': 0.1641,
+ 'accel_y_g': 0.0214,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 24.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.661016
+{'accel_x_g': 0.0744,
+ 'accel_y_g': -0.0714,
+ 'accel_z_g': 0.9776,
+ 'bearing_deg': 23.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.767114
+{'accel_x_g': 0.1305,
+ 'accel_y_g': -0.1397,
+ 'accel_z_g': 1.0255,
+ 'bearing_deg': 22.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.875539
+{'accel_x_g': 0.1019,
+ 'accel_y_g': -0.0785,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 22.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:54.981963
+{'accel_x_g': 0.1549,
+ 'accel_y_g': -0.1152,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 22.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.089903
+{'accel_x_g': 0.0479,
+ 'accel_y_g': -0.1366,
+ 'accel_z_g': 0.9725,
+ 'bearing_deg': 21.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.195668
+{'accel_x_g': 0.0489,
+ 'accel_y_g': -0.0398,
+ 'accel_z_g': 1.002,
+ 'bearing_deg': 20.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.301671
+{'accel_x_g': 0.1284,
+ 'accel_y_g': -0.0438,
+ 'accel_z_g': 0.9674,
+ 'bearing_deg': 19.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.407421
+{'accel_x_g': 0.1081,
+ 'accel_y_g': 0.0234,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 17.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.514443
+{'accel_x_g': 0.0265,
+ 'accel_y_g': 0.0092,
+ 'accel_z_g': 0.9704,
+ 'bearing_deg': 14.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.620000
+{'accel_x_g': 0.1254,
+ 'accel_y_g': -0.0866,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 11.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.728590
+{'accel_x_g': 0.0387,
+ 'accel_y_g': -0.1611,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 7.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.834597
+{'accel_x_g': 0.107,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9643,
+ 'bearing_deg': 2.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:55.943481
+{'accel_x_g': 0.0581,
+ 'accel_y_g': -0.1427,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 359.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.051747
+{'accel_x_g': 0.1794,
+ 'accel_y_g': -0.0418,
+ 'accel_z_g': 1.0775,
+ 'bearing_deg': 355.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.158085
+{'accel_x_g': 0.0398,
+ 'accel_y_g': 0.0082,
+ 'accel_z_g': 0.9541,
+ 'bearing_deg': 351.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.264232
+{'accel_x_g': 0.0734,
+ 'accel_y_g': -0.0979,
+ 'accel_z_g': 1.0561,
+ 'bearing_deg': 347.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.370222
+{'accel_x_g': 0.106,
+ 'accel_y_g': -0.1172,
+ 'accel_z_g': 1.0347,
+ 'bearing_deg': 343.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.476067
+{'accel_x_g': 0.0744,
+ 'accel_y_g': -0.0979,
+ 'accel_z_g': 0.9817,
+ 'bearing_deg': 338.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.583837
+{'accel_x_g': 0.055,
+ 'accel_y_g': 0.0652,
+ 'accel_z_g': 1.051,
+ 'bearing_deg': 335.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.688460
+{'accel_x_g': 0.0846,
+ 'accel_y_g': -0.053,
+ 'accel_z_g': 1.0204,
+ 'bearing_deg': 332.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.797127
+{'accel_x_g': 0.0296,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9643,
+ 'bearing_deg': 330.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:56.904501
+{'accel_x_g': 0.054,
+ 'accel_y_g': 0.0031,
+ 'accel_z_g': 1.0316,
+ 'bearing_deg': 330.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.011824
+{'accel_x_g': 0.106,
+ 'accel_y_g': -0.0724,
+ 'accel_z_g': 0.9786,
+ 'bearing_deg': 330.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.117871
+{'accel_x_g': 0.0765,
+ 'accel_y_g': -0.0479,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 330.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.226131
+{'accel_x_g': 0.0591,
+ 'accel_y_g': -0.0398,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 331.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.332236
+{'accel_x_g': 0.0642,
+ 'accel_y_g': -0.0775,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 331.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.437866
+{'accel_x_g': 0.0693,
+ 'accel_y_g': -0.0642,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 332.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.544030
+{'accel_x_g': 0.0744,
+ 'accel_y_g': -0.0377,
+ 'accel_z_g': 1.001,
+ 'bearing_deg': 333.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.651147
+{'accel_x_g': 0.0183,
+ 'accel_y_g': -0.0194,
+ 'accel_z_g': 0.9867,
+ 'bearing_deg': 336.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.756905
+{'accel_x_g': 0.0489,
+ 'accel_y_g': -0.0673,
+ 'accel_z_g': 1.0173,
+ 'bearing_deg': 339.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.865505
+{'accel_x_g': 0.0795,
+ 'accel_y_g': -0.0449,
+ 'accel_z_g': 0.8828,
+ 'bearing_deg': 344.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:57.972922
+{'accel_x_g': 0.0724,
+ 'accel_y_g': -0.0438,
+ 'accel_z_g': 1.0082,
+ 'bearing_deg': 348.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.080411
+{'accel_x_g': 0.1131,
+ 'accel_y_g': -0.0398,
+ 'accel_z_g': 0.9613,
+ 'bearing_deg': 352.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.187118
+{'accel_x_g': 0.054,
+ 'accel_y_g': -0.0622,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 354.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.294725
+{'accel_x_g': 0.0601,
+ 'accel_y_g': -0.0591,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 357.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.400643
+{'accel_x_g': 0.0734,
+ 'accel_y_g': -0.0673,
+ 'accel_z_g': 0.9745,
+ 'bearing_deg': 359.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.506317
+{'accel_x_g': 0.213,
+ 'accel_y_g': 0.0265,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 1.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.612317
+{'accel_x_g': 0.1417,
+ 'accel_y_g': -0.0112,
+ 'accel_z_g': 0.8736,
+ 'bearing_deg': 3.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.718371
+{'accel_x_g': 0.0224,
+ 'accel_y_g': -0.0612,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 5.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.824502
+{'accel_x_g': 0.0989,
+ 'accel_y_g': -0.0183,
+ 'accel_z_g': 1.0336,
+ 'bearing_deg': 8.4375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:58.932441
+{'accel_x_g': -0.0255,
+ 'accel_y_g': -0.0693,
+ 'accel_z_g': 0.9521,
+ 'bearing_deg': 11.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.039841
+{'accel_x_g': -0.0041,
+ 'accel_y_g': -0.0836,
+ 'accel_z_g': 0.9674,
+ 'bearing_deg': 14.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.147459
+{'accel_x_g': 0.1916,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 17.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.253781
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0499,
+ 'accel_z_g': 1.0428,
+ 'bearing_deg': 21.5,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.361881
+{'accel_x_g': 0.0724,
+ 'accel_y_g': -0.1223,
+ 'accel_z_g': 1.0031,
+ 'bearing_deg': 24.625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.467714
+{'accel_x_g': 0.103,
+ 'accel_y_g': -0.0836,
+ 'accel_z_g': 0.9643,
+ 'bearing_deg': 27.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.573547
+{'accel_x_g': 0.0999,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 1.0234,
+ 'bearing_deg': 30.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.679727
+{'accel_x_g': 0.0836,
+ 'accel_y_g': -0.0031,
+ 'accel_z_g': 0.9725,
+ 'bearing_deg': 32.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.785501
+{'accel_x_g': 0.0693,
+ 'accel_y_g': -0.0214,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 34.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:14:59.893131
+{'accel_x_g': 0.1488,
+ 'accel_y_g': -0.0183,
+ 'accel_z_g': 1.0102,
+ 'bearing_deg': 37.125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.001870
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0469,
+ 'accel_z_g': 0.9643,
+ 'bearing_deg': 39.375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.107067
+{'accel_x_g': 0.0214,
+ 'accel_y_g': 0.0112,
+ 'accel_z_g': 0.9745,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.215658
+{'accel_x_g': 0.0367,
+ 'accel_y_g': 0.054,
+ 'accel_z_g': 0.9796,
+ 'bearing_deg': 41.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.322450
+{'accel_x_g': 0.0938,
+ 'accel_y_g': 0.0173,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.430156
+{'accel_x_g': 0.0642,
+ 'accel_y_g': -0.0143,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.1875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.536157
+{'accel_x_g': 0.1203,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9725,
+ 'bearing_deg': 40.6875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.642139
+{'accel_x_g': 0.1152,
+ 'accel_y_g': -0.0387,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 40.25,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.747794
+{'accel_x_g': 0.0979,
+ 'accel_y_g': -0.0153,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 40.3125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.853551
+{'accel_x_g': 0.0683,
+ 'accel_y_g': -0.0163,
+ 'accel_z_g': 1.0051,
+ 'bearing_deg': 40.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:00.960399
+{'accel_x_g': 0.0765,
+ 'accel_y_g': -0.053,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.068423
+{'accel_x_g': 0.107,
+ 'accel_y_g': -0.0601,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.174570
+{'accel_x_g': 0.0999,
+ 'accel_y_g': -0.0428,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.284644
+{'accel_x_g': 0.0775,
+ 'accel_y_g': -0.0143,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.389588
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0163,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.502990
+{'accel_x_g': 0.0979,
+ 'accel_y_g': -0.0347,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.604553
+{'accel_x_g': 0.0948,
+ 'accel_y_g': -0.0357,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.710820
+{'accel_x_g': 0.0836,
+ 'accel_y_g': -0.0224,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.818309
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0183,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:01.929510
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.031864
+{'accel_x_g': 0.0856,
+ 'accel_y_g': -0.0316,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.139486
+{'accel_x_g': 0.0948,
+ 'accel_y_g': -0.0214,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.247029
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0224,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.354189
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.464179
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.567711
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.674424
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.781257
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.889846
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:02.995890
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.104523
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.213615
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.318639
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.425580
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 40.8125,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.533064
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 40.75,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.639215
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 40.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.746664
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.854056
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:03.961511
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0316,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 40.875,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.069852
+{'accel_x_g': 0.0989,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 40.9375,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.175452
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.284446
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.391887
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.498694
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.604657
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.711830
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.818406
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:04.926361
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.034601
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.140372
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.248241
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.355403
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.464411
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0214,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.569312
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.675433
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.782452
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.891989
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:05.998447
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.105488
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.212237
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.320004
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.427307
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.534585
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.641602
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0224,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.747877
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.855965
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0306,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:06.962838
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.069866
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.176421
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.285250
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0224,
+ 'accel_z_g': 0.9888,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.391287
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.499426
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.605227
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.712757
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.819476
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:07.927202
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.034455
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.141478
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.249575
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.356095
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.465355
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.570817
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.678131
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.784646
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:08.892721
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.001503
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.106724
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.214019
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.321195
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9878,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.429917
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.998,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.535659
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.641566
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.748985
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.856803
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:09.963414
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.072005
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.178361
+{'accel_x_g': 0.0887,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.286422
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.394246
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.501313
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.607356
+{'accel_x_g': 0.0856,
+ 'accel_y_g': -0.0204,
+ 'accel_z_g': 0.9898,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.715762
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.822628
+{'accel_x_g': 0.0866,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:10.928900
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.036532
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.143375
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0234,
+ 'accel_z_g': 0.9888,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.251709
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9888,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.357980
+{'accel_x_g': 0.0968,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.466544
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.572396
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0204,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.679571
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.786209
+{'accel_x_g': 0.0938,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:11.894252
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0224,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.001481
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0265,
+ 'accel_z_g': 0.9918,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.108472
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.216598
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0214,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.323499
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0285,
+ 'accel_z_g': 0.9908,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.432399
+{'accel_x_g': 0.0948,
+ 'accel_y_g': -0.0306,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.537905
+{'accel_x_g': 0.0846,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.999,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.645472
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0316,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.751180
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0316,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.859996
+{'accel_x_g': 0.0897,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9949,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:12.966189
+{'accel_x_g': 0.0917,
+ 'accel_y_g': -0.0275,
+ 'accel_z_g': 0.9939,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:13.074154
+{'accel_x_g': 0.0928,
+ 'accel_y_g': -0.0296,
+ 'accel_z_g': 0.9969,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:13.181458
+{'accel_x_g': 0.0877,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:13.288428
+{'accel_x_g': 0.0958,
+ 'accel_y_g': -0.0245,
+ 'accel_z_g': 0.9929,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+
+----- 2022-02-10 16:15:13.396843
+{'accel_x_g': 0.0907,
+ 'accel_y_g': -0.0255,
+ 'accel_z_g': 0.9959,
+ 'bearing_deg': 41.0625,
+ 'gyro_x_dps': 3.0,
+ 'gyro_y_dps': 3.0,
+ 'gyro_z_dps': 2.0,
+ 'mag_x_uT': 0.0,
+ 'mag_y_uT': 0.0,
+ 'mag_z_uT': 0.0,
+ 'pitch_rad': 0.0,
+ 'roll_rad': 0.0,
+ 'yaw_rad': 0.0}
+

@@ -50,9 +50,9 @@ Convert an LCM echo log file containing GPS data into a KML file that can be loa
 Save your LCM log file to a "/data" folder in the same directory as this script,
 The KML file will be saved to the same directory with the same name except for a .kml extension.
 
-usage: python3 convert_gps.py [LCM_FILE_NAME.txt]
+usage: python3 convert_gps.py [PATH_TO_LCM_FILE]
 """
-gps_file = "data/" + sys.argv[1]
-kml_file = "data/" + sys.argv[1].replace(".txt", ".kml")
+gps_file = sys.argv[1]
+kml_file = sys.argv[1].replace(".txt", ".kml")
 data = parse_gps_data(gps_file)
 export_kml(data, kml_file)
