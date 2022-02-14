@@ -1,3 +1,4 @@
+import enum
 import json
 import sys
 
@@ -10,23 +11,29 @@ KML_FOOTER = """        </Document>
 
 def parse_gps_data(gps_filename):
     with open(gps_filename, "r") as f:
-        raw_msgs = f.read().split("\n\n")
+        raw_msgs = f.read().strip().split("\n\n")
 
         msgs = []
         for raw_msg in raw_msgs:
 
-            # remove timestamp (first line of each msg)
-            raw_msg = "".join(raw_msg.split("\n")[1:])
+            # separate the timestamp from the LCM struct
+            lines = raw_msg.split("\n")
+            timestamp = lines[0].strip("- ")
+            raw_msg = "".join(lines[1:])
 
             # replace single quotes with double quotes for JSON
             raw_msg = raw_msg.replace("\'", "\"")
 
-            if raw_msg != "":
-                msgs.append(json.loads(raw_msg))
+            # add or update the timestamp in the JSON object
+            # if raw_msg != "":
+            msg = json.loads(raw_msg)
+            msg["timeStamp"] = timestamp
+            msgs.append(msg)
+
     return msgs
 
 
-def new_placemark(lon, lat, name=0, id=0):
+def kml_placemark(lon, lat, name=0, id=0):
     return f"""<Placemark id="{id}">
                   <name>{name}</name>
                   <Point id="{id}">
@@ -40,10 +47,12 @@ def export_kml(gps_json, kml_filename):
     for i, point in enumerate(gps_json):
         lon = point["longitude_deg"] + point["longitude_min"] / 60
         lat = point["latitude_deg"] + point["latitude_min"] / 60
-        placemarks.append(new_placemark(lon, lat, i, i))
+        name = point["timeStamp"]
+        placemarks.append(kml_placemark(lon, lat, name, i))
 
     with open(kml_filename, 'w') as f:
         f.write(KML_HEADER + "\n".join(placemarks) + KML_FOOTER)
+
 
 """
 Convert an LCM echo log file containing GPS data into a KML file that can be loaded in Google Earth or a similar mapping tool.
