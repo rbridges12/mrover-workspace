@@ -12,6 +12,10 @@ KML_FOOTER = """        </Document>
 def parse_gps_data(gps_filename):
     with open(gps_filename, "r") as f:
         raw_msgs = f.read().strip().split("\n\n")
+        
+        # if last msg is incomplete, get rid of it
+        if raw_msgs[-1][-1] != "}":
+            raw_msgs = raw_msgs[:-1]
 
         msgs = []
         for raw_msg in raw_msgs:
@@ -64,4 +68,9 @@ usage: python3 convert_gps.py [PATH_TO_LCM_FILE]
 gps_file = sys.argv[1]
 kml_file = sys.argv[1].replace(".txt", ".kml")
 data = parse_gps_data(gps_file)
+
+# in sparse mode, only keep every tenth point
+#if sys.argv[2] == "-s":
+#    data = [pt for i, pt in enumerate(data) if i % 10 == 0]
+    
 export_kml(data, kml_file)
