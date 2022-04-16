@@ -375,10 +375,13 @@ class SensorFusion:
                         await asyncio.sleep(self.config["UpdateRate"])
                         continue
 
+                    # if encoder stop is turned on,
                     # only update the state if the rover is moving or the state estimate is empty
+
                     # only checking if lat_deg is None is a sketchy solution,
                     # but it should work fine for this temporary hack
-                    if not self._encoders_stopped() or self.state_estimate.pos["lat_deg"] is None:
+                    if not self.config["EncoderStop"] or not self._encoders_stopped() or 
+                                                self.state_estimate.pos["lat_deg"] is None:
                         self.state_estimate = StateEstimate(pos["lat_deg"], pos["lat_min"], vel["north"],
                                                             pos["long_deg"], pos["long_min"], vel["east"],
                                                             bearing,
